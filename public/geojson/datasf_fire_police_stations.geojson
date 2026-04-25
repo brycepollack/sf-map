@@ -1,0 +1,1012 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40935150799999, 37.80254787500007] },
+      "properties": {
+        "facility_id": "710",
+        "common_name": "Fire Station #28",
+        "address": "1814 STOCKTON ST",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "block_lot": "0077024",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "9,350",
+        "supervisor_district": "3",
+        "city_tenants": "",
+        "land_id": "338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40987916099999, 37.79703411300005] },
+      "properties": {
+        "facility_id": "702",
+        "common_name": "Fire Station #2",
+        "address": "1340 POWELL ST",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "block_lot": "0160015",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "16,920",
+        "supervisor_district": "3",
+        "city_tenants": "",
+        "land_id": "337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40135015599998, 37.79551871100006] },
+      "properties": {
+        "facility_id": "695",
+        "common_name": "Fire Station #13",
+        "address": "530 SANSOME ST",
+        "city": "San Francisco",
+        "zip_code": "94111",
+        "block_lot": "0206017",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "18,790",
+        "supervisor_district": "3",
+        "city_tenants": "",
+        "land_id": "336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.41649515599994, 37.793376858000045] },
+      "properties": {
+        "facility_id": "724",
+        "common_name": "Fire Station #41",
+        "address": "1325 LEAVENWORTH ST",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "block_lot": "0216003",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "9,600",
+        "supervisor_district": "3",
+        "city_tenants": "",
+        "land_id": "334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.43672029099997, 37.798581854000076] },
+      "properties": {
+        "facility_id": "698",
+        "common_name": "Fire Station #16",
+        "address": "2251 GREENWICH ST",
+        "city": "San Francisco",
+        "zip_code": "94123",
+        "block_lot": "0515031",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "14,000",
+        "supervisor_district": "2",
+        "city_tenants": "",
+        "land_id": "331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.42988021399998, 37.789718675000074] },
+      "properties": {
+        "facility_id": "719",
+        "common_name": "Fire Station #38",
+        "address": "2150 CALIFORNIA ST",
+        "city": "San Francisco",
+        "zip_code": "94115",
+        "block_lot": "0638016",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "13,400",
+        "supervisor_district": "2",
+        "city_tenants": "",
+        "land_id": "329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.41932098399997, 37.786641204000034] },
+      "properties": {
+        "facility_id": "712",
+        "common_name": "Fire Station #3",
+        "address": "1067 POST ST",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "block_lot": "0693018",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "8,000",
+        "supervisor_district": "3",
+        "city_tenants": "",
+        "land_id": "328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.43073467999994, 37.78051537400006] },
+      "properties": {
+        "facility_id": "729",
+        "common_name": "Fire Station #5 - Division 2 Headquarters",
+        "address": "1301 TURK ST",
+        "city": "San Francisco",
+        "zip_code": "94115",
+        "block_lot": "0756001",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "12,600",
+        "supervisor_district": "5",
+        "city_tenants": "",
+        "land_id": "641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.42121127999997, 37.77493240600006] },
+      "properties": {
+        "facility_id": "717",
+        "common_name": "Fire Station #36",
+        "address": "109 OAK ST",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "block_lot": "0837025",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "16,100",
+        "supervisor_district": "5",
+        "city_tenants": "",
+        "land_id": "327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.44672328899998, 37.78562525800004] },
+      "properties": {
+        "facility_id": "692",
+        "common_name": "Fire Station #10",
+        "address": "655 PRESIDIO AVE",
+        "city": "San Francisco",
+        "zip_code": "94115",
+        "block_lot": "1032001",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "14,300",
+        "supervisor_district": "2",
+        "city_tenants": "",
+        "land_id": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.44027176799995, 37.775409721000074] },
+      "properties": {
+        "facility_id": "704",
+        "common_name": "Fire Station #21",
+        "address": "1443 GROVE ST",
+        "city": "San Francisco",
+        "zip_code": "94117",
+        "block_lot": "1200016",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "8,000",
+        "supervisor_district": "5",
+        "city_tenants": "",
+        "land_id": "326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.50261909499994, 37.779438629000026] },
+      "properties": {
+        "facility_id": "716",
+        "common_name": "Fire Station #34",
+        "address": "499 41ST AVE",
+        "city": "San Francisco",
+        "zip_code": "94121",
+        "block_lot": "1494001",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "4,400",
+        "supervisor_district": "1",
+        "city_tenants": "",
+        "land_id": "324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.48606162099998, 37.77899264900003] },
+      "properties": {
+        "facility_id": "696",
+        "common_name": "Fire Station #14",
+        "address": "551 26TH AVE",
+        "city": "San Francisco",
+        "zip_code": "94121",
+        "block_lot": "1518009",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "15,900",
+        "supervisor_district": "1",
+        "city_tenants": "",
+        "land_id": "323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.47091141499999, 37.77984010500006] },
+      "properties": {
+        "facility_id": "713",
+        "common_name": "Fire Station #31",
+        "address": "441 12TH AVE",
+        "city": "San Francisco",
+        "zip_code": "94118",
+        "block_lot": "1532007",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "8,500",
+        "supervisor_district": "1",
+        "city_tenants": "",
+        "land_id": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.47368711699994, 37.76393036800005] },
+      "properties": {
+        "facility_id": "705",
+        "common_name": "Fire Station #22",
+        "address": "1290 16TH AVE",
+        "city": "San Francisco",
+        "zip_code": "94122",
+        "block_lot": "1735064",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "5,900",
+        "supervisor_district": "7",
+        "city_tenants": "",
+        "land_id": "322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.50471003499996, 37.76140573300006] },
+      "properties": {
+        "facility_id": "706",
+        "common_name": "Fire Station #23",
+        "address": "1348 45TH AVE",
+        "city": "San Francisco",
+        "zip_code": "94122",
+        "block_lot": "1799029",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "12,000",
+        "supervisor_district": "4",
+        "city_tenants": "",
+        "land_id": "319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.49054390699996, 37.75098636300004] },
+      "properties": {
+        "facility_id": "700",
+        "common_name": "Fire Station #18",
+        "address": "1935 32ND AVE",
+        "city": "San Francisco",
+        "zip_code": "94116",
+        "block_lot": "2102006",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "15,900",
+        "supervisor_district": "4",
+        "city_tenants": "",
+        "land_id": "321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.47526939799997, 37.74761093800004] },
+      "properties": {
+        "facility_id": "723",
+        "common_name": "Fire Station #40",
+        "address": "2155 18TH AVE",
+        "city": "San Francisco",
+        "zip_code": "94116",
+        "block_lot": "2199003",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "7,350",
+        "supervisor_district": "7",
+        "city_tenants": "",
+        "land_id": "318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.45258644499995, 37.76344992600008] },
+      "properties": {
+        "facility_id": "694",
+        "common_name": "Fire Station #12",
+        "address": "1145 STANYAN ST",
+        "city": "San Francisco",
+        "zip_code": "94117",
+        "block_lot": "2630047",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "11,300",
+        "supervisor_district": "8",
+        "city_tenants": "",
+        "land_id": "316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.44110498099997, 37.75312934900006] },
+      "properties": {
+        "facility_id": "707",
+        "common_name": "Fire Station #24",
+        "address": "100 HOFFMAN AVE",
+        "city": "San Francisco",
+        "zip_code": "94114",
+        "block_lot": "2801001",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "7,600",
+        "supervisor_district": "8",
+        "city_tenants": "",
+        "land_id": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.45607669299994, 37.75117124500008] },
+      "properties": {
+        "facility_id": "703",
+        "common_name": "Fire Station #20",
+        "address": "285 OLYMPIA WAY",
+        "city": "San Francisco",
+        "zip_code": "94131",
+        "block_lot": "2842009",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "10,300",
+        "supervisor_district": "7",
+        "city_tenants": "",
+        "land_id": "582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.45863496599998, 37.740039839000076] },
+      "properties": {
+        "facility_id": "720",
+        "common_name": "Fire Station #39",
+        "address": "1091 PORTOLA DR",
+        "city": "San Francisco",
+        "zip_code": "94127",
+        "block_lot": "2982029",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "8,450",
+        "supervisor_district": "7",
+        "city_tenants": "",
+        "land_id": "342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.45292662899999, 37.723488631000066] },
+      "properties": {
+        "facility_id": "697",
+        "common_name": "Fire Station #15",
+        "address": "1000 OCEAN AVE",
+        "city": "San Francisco",
+        "zip_code": "94112",
+        "block_lot": "3180001",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "12,138",
+        "supervisor_district": "7",
+        "city_tenants": "",
+        "land_id": "588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.43087415499997, 37.76707870700005] },
+      "properties": {
+        "facility_id": "730",
+        "common_name": "Fire Station #6",
+        "address": "135 SANCHEZ ST",
+        "city": "San Francisco",
+        "zip_code": "94114",
+        "block_lot": "3542025",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "13,500",
+        "supervisor_district": "8",
+        "city_tenants": "",
+        "land_id": "313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.41504181999994, 37.76025539700004] },
+      "properties": {
+        "facility_id": "731",
+        "common_name": "Fire Station #7 - Division 3 Headquarters",
+        "address": "2300 FOLSOM ST",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "block_lot": "3594059",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "16,488",
+        "supervisor_district": "9",
+        "city_tenants": "",
+        "land_id": "314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40412015999999, 37.77945652500006] },
+      "properties": {
+        "facility_id": "691",
+        "common_name": "Fire Station #1",
+        "address": "935 FOLSOM ST",
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "block_lot": "3753313",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "",
+        "supervisor_district": "6",
+        "city_tenants": "",
+        "land_id": "951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.39671009299997, 37.77730564400008] },
+      "properties": {
+        "facility_id": "733",
+        "common_name": "Fire Station #8",
+        "address": "36 BLUXOME ST",
+        "city": "San Francisco",
+        "zip_code": "94107",
+        "block_lot": "3786039",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "8,000",
+        "supervisor_district": "6",
+        "city_tenants": "",
+        "land_id": "312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40429579299996, 37.766156471000045] },
+      "properties": {
+        "facility_id": "711",
+        "common_name": "Fire Station #29",
+        "address": "299 VERMONT ST",
+        "city": "San Francisco",
+        "zip_code": "94103",
+        "block_lot": "3935002",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "8,300",
+        "supervisor_district": "6",
+        "city_tenants": "",
+        "land_id": "343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.399243851, 37.75741778200006] },
+      "properties": {
+        "facility_id": "718",
+        "common_name": "Fire Station #37",
+        "address": "798 WISCONSIN ST",
+        "city": "San Francisco",
+        "zip_code": "94107",
+        "block_lot": "4097024",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "6,950",
+        "supervisor_district": "10",
+        "city_tenants": "",
+        "land_id": "344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.38685250599997, 37.74663929800005] },
+      "properties": {
+        "facility_id": "708",
+        "common_name": "Fire Station #25",
+        "address": "3305 3RD ST",
+        "city": "San Francisco",
+        "zip_code": "94124",
+        "block_lot": "4502A002",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "11,420",
+        "supervisor_district": "10",
+        "city_tenants": "",
+        "land_id": "781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.38506673499995, 37.72752662100004] },
+      "properties": {
+        "facility_id": "699",
+        "common_name": "Fire Station #17",
+        "address": "1295 SHAFTER AVE",
+        "city": "San Francisco",
+        "zip_code": "94124",
+        "block_lot": "4792018",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "12,100",
+        "supervisor_district": "10",
+        "city_tenants": "",
+        "land_id": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40123558199997, 37.745262342000046] },
+      "properties": {
+        "facility_id": "734",
+        "common_name": "Fire Station #9",
+        "address": "2245 JERROLD AVE",
+        "city": "San Francisco",
+        "zip_code": "94124",
+        "block_lot": "5286A022",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "15,000",
+        "supervisor_district": "10",
+        "city_tenants": "",
+        "land_id": "309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.42116606999997, 37.736322751000046] },
+      "properties": {
+        "facility_id": "714",
+        "common_name": "Fire Station #32",
+        "address": "194 PARK ST",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "block_lot": "5720059",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "10,900",
+        "supervisor_district": "9",
+        "city_tenants": "",
+        "land_id": "346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40542499599997, 37.73158521200003] },
+      "properties": {
+        "facility_id": "725",
+        "common_name": "Fire Station #42",
+        "address": "2430 SAN BRUNO AVE",
+        "city": "San Francisco",
+        "zip_code": "94134",
+        "block_lot": "5924004",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "9,300",
+        "supervisor_district": "9",
+        "city_tenants": "",
+        "land_id": "347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40043363899997, 37.71662053600005] },
+      "properties": {
+        "facility_id": "727",
+        "common_name": "Fire Station #44",
+        "address": "1298 GIRARD ST",
+        "city": "San Francisco",
+        "zip_code": "94134",
+        "block_lot": "6194010",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "8,450",
+        "supervisor_district": "10",
+        "city_tenants": "",
+        "land_id": "348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.43167870699995, 37.71634867300003] },
+      "properties": {
+        "facility_id": "726",
+        "common_name": "Fire Station #43",
+        "address": "720 MOSCOW ST",
+        "city": "San Francisco",
+        "zip_code": "94112",
+        "block_lot": "6338024",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "10,800",
+        "supervisor_district": "11",
+        "city_tenants": "",
+        "land_id": "308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.426485507, 37.748782317000064] },
+      "properties": {
+        "facility_id": "693",
+        "common_name": "Fire Station #11",
+        "address": "3880 26TH ST",
+        "city": "San Francisco",
+        "zip_code": "94131",
+        "block_lot": "6551043",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "14,000",
+        "supervisor_district": "8",
+        "city_tenants": "",
+        "land_id": "307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.45858070099996, 37.71085947800003] },
+      "properties": {
+        "facility_id": "715",
+        "common_name": "Fire Station #33",
+        "address": "8 CAPITOL AVE",
+        "city": "San Francisco",
+        "zip_code": "94112",
+        "block_lot": "7147046",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "5,900",
+        "supervisor_district": "11",
+        "city_tenants": "",
+        "land_id": "349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.47890289799994, 37.727811615000064] },
+      "properties": {
+        "facility_id": "701",
+        "common_name": "Fire Station #19",
+        "address": "390 BUCKINGHAM WAY",
+        "city": "San Francisco",
+        "zip_code": "94132",
+        "block_lot": "7296002",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "11,500",
+        "supervisor_district": "7",
+        "city_tenants": "",
+        "land_id": "306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.43339969399995, 37.740283058000045] },
+      "properties": {
+        "facility_id": "709",
+        "common_name": "Fire Station #26",
+        "address": "80 DIGBY ST",
+        "city": "San Francisco",
+        "zip_code": "94131",
+        "block_lot": "7540013",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "15,000",
+        "supervisor_district": "8",
+        "city_tenants": "",
+        "land_id": "305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.38913875099996, 37.77272154900004] },
+      "properties": {
+        "facility_id": "1208",
+        "common_name": "Fire Station #4",
+        "address": "449 MISSION ROCK ST",
+        "city": "San Francisco",
+        "zip_code": "94158",
+        "block_lot": "8719007",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "",
+        "supervisor_district": "6",
+        "city_tenants": "",
+        "land_id": "755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.38844006899996, 37.79022102600004] },
+      "properties": {
+        "facility_id": "738",
+        "common_name": "Fire Station #35 - Fireboat Headquarters",
+        "address": "PIER 22 1/2",
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "block_lot": "9900022H",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "2,500",
+        "supervisor_district": "6",
+        "city_tenants": "",
+        "land_id": "369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.36921098199997, 37.82666830100004] },
+      "properties": {
+        "facility_id": "728",
+        "common_name": "Fire Station #48",
+        "address": "800 AVENUE I",
+        "city": "San Francisco",
+        "zip_code": "94130",
+        "block_lot": "",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "38",
+        "jurisdiction": "Fire Department",
+        "gross_sq_ft": "18,000",
+        "supervisor_district": "6",
+        "city_tenants": "",
+        "land_id": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.40986290899997, 37.79864531900006] },
+      "properties": {
+        "facility_id": "453",
+        "common_name": "Central Station",
+        "address": "766 VALLEJO ST",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "block_lot": "0130043",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "8,000",
+        "supervisor_district": "3",
+        "city_tenants": "",
+        "land_id": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.41290673999998, 37.78364564800006] },
+      "properties": {
+        "facility_id": "1750",
+        "common_name": "Tenderloin Station",
+        "address": "301 EDDY ST",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "block_lot": "0338023",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "27,500",
+        "supervisor_district": "5",
+        "city_tenants": "",
+        "land_id": "548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.43239043499995, 37.780161141000065] },
+      "properties": {
+        "facility_id": "1190",
+        "common_name": "Northern Station",
+        "address": "1125 FILLMORE ST",
+        "city": "San Francisco",
+        "zip_code": "94115",
+        "block_lot": "0755013",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "18,000",
+        "supervisor_district": "5",
+        "city_tenants": "",
+        "land_id": "193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.46446072899994, 37.780001292000065] },
+      "properties": {
+        "facility_id": "1407",
+        "common_name": "Richmond Station",
+        "address": "461 6TH AVE",
+        "city": "San Francisco",
+        "zip_code": "94118",
+        "block_lot": "1538007",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "13,000",
+        "supervisor_district": "1",
+        "city_tenants": "",
+        "land_id": "812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.45522601299996, 37.76782399000007] },
+      "properties": {
+        "facility_id": "1231",
+        "common_name": "Park Station",
+        "address": "1899 WALLER ST",
+        "city": "San Francisco",
+        "zip_code": "94117",
+        "block_lot": "1700001",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "13,700",
+        "supervisor_district": "5",
+        "city_tenants": "",
+        "land_id": "803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.48146076699999, 37.743733794000036] },
+      "properties": {
+        "facility_id": "1740",
+        "common_name": "Taraval Station",
+        "address": "2345 24TH AVE",
+        "city": "San Francisco",
+        "zip_code": "94116",
+        "block_lot": "2353002",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "18,070",
+        "supervisor_district": "4",
+        "city_tenants": "",
+        "land_id": "177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.44625104499994, 37.72477013400004] },
+      "properties": {
+        "facility_id": "897",
+        "common_name": "Ingleside Police Station",
+        "address": "1 SERGEANT JOHN V YOUNG ST",
+        "city": "San Francisco",
+        "zip_code": "94112",
+        "block_lot": "3179011",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "18,500",
+        "supervisor_district": "11",
+        "city_tenants": "",
+        "land_id": "661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.42196966499995, 37.76268070300006] },
+      "properties": {
+        "facility_id": "1130",
+        "common_name": "Mission Station",
+        "address": "630 VALENCIA ST",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "block_lot": "3577001",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "25,000",
+        "supervisor_district": "9",
+        "city_tenants": "",
+        "land_id": "556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.39808655499996, 37.72964171800004] },
+      "properties": {
+        "facility_id": "173",
+        "common_name": "Bayview Station",
+        "address": "201 WILLIAMS AVE",
+        "city": "San Francisco",
+        "zip_code": "94124",
+        "block_lot": "5423A010",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "16,000",
+        "supervisor_district": "10",
+        "city_tenants": "",
+        "land_id": "567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-122.38918310799994, 37.772553913000024] },
+      "properties": {
+        "facility_id": "1309",
+        "common_name": "Public Safety Building",
+        "address": "1245 3RD ST",
+        "city": "San Francisco",
+        "zip_code": "94158",
+        "block_lot": "8719007",
+        "owned_leased": "Own",
+        "dept_id_for_jurisdiction": "45",
+        "jurisdiction": "Police Department",
+        "gross_sq_ft": "185,855",
+        "supervisor_district": "6",
+        "city_tenants": "",
+        "land_id": "755"
+      }
+    }
+  ]
+}

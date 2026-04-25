@@ -1,0 +1,3889 @@
+{
+  "1101": {
+    "district": "7",
+    "neighborhoods": [
+      "Stonestown",
+      "Parkmerced",
+      "Ingleside",
+      "Merced Heights",
+      "Ingleside Terraces"
+    ]
+  },
+  "1102": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkmerced",
+      "Merced Heights"
+    ]
+  },
+  "1103": {
+    "district": "11",
+    "neighborhoods": [
+      "Ingleside",
+      "Ingleside Terraces"
+    ]
+  },
+  "1104": {
+    "district": "7",
+    "neighborhoods": [
+      "Ingleside",
+      "Merced Heights",
+      "Ingleside Terraces"
+    ]
+  },
+  "1105": {
+    "district": "11",
+    "neighborhoods": [
+      "Merced Heights",
+      "Oceanview"
+    ]
+  },
+  "1106": {
+    "district": "7",
+    "neighborhoods": [
+      "Merced Heights",
+      "Oceanview"
+    ]
+  },
+  "1107": {
+    "district": "7",
+    "neighborhoods": [
+      "Merced Heights",
+      "Outer Mission",
+      "Oceanview"
+    ]
+  },
+  "1108": {
+    "district": "7",
+    "neighborhoods": [
+      "Ingleside",
+      "Ingleside Terraces",
+      "Mt. Davidson Manor",
+      "Westwood Park"
+    ]
+  },
+  "1109": {
+    "district": "7",
+    "neighborhoods": [
+      "Ingleside",
+      "Ingleside Terraces",
+      "Oceanview"
+    ]
+  },
+  "1111": {
+    "district": "11",
+    "neighborhoods": [
+      "Ingleside",
+      "Merced Heights",
+      "Oceanview"
+    ]
+  },
+  "1112": {
+    "district": "11",
+    "neighborhoods": [
+      "Ingleside",
+      "Oceanview"
+    ]
+  },
+  "1113": {
+    "district": "11",
+    "neighborhoods": [
+      "Ingleside",
+      "Oceanview"
+    ]
+  },
+  "1114": {
+    "district": "11",
+    "neighborhoods": [
+      "Outer Mission",
+      "Oceanview"
+    ]
+  },
+  "1115": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Outer Mission",
+      "Oceanview"
+    ]
+  },
+  "1116": {
+    "district": "7",
+    "neighborhoods": [
+      "Ingleside",
+      "Westwood Park",
+      "Oceanview",
+      "Sunnyside"
+    ]
+  },
+  "1117": {
+    "district": "7",
+    "neighborhoods": [
+      "Ingleside",
+      "Westwood Park",
+      "Cayuga",
+      "Oceanview",
+      "Sunnyside"
+    ]
+  },
+  "1118": {
+    "district": "11",
+    "neighborhoods": [
+      "Outer Mission",
+      "Oceanview"
+    ]
+  },
+  "1119": {
+    "district": "11",
+    "neighborhoods": [
+      "Outer Mission",
+      "Cayuga",
+      "Oceanview"
+    ]
+  },
+  "1121": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Outer Mission"
+    ]
+  },
+  "1122": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Outer Mission",
+      "Cayuga"
+    ]
+  },
+  "1123": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Cayuga"
+    ]
+  },
+  "1124": {
+    "district": "11",
+    "neighborhoods": [
+      "Outer Mission",
+      "Cayuga",
+      "Oceanview",
+      "Mission Terrace",
+      "Sunnyside"
+    ]
+  },
+  "1125": {
+    "district": "11",
+    "neighborhoods": [
+      "Cayuga",
+      "Excelsior",
+      "Mission Terrace"
+    ]
+  },
+  "1126": {
+    "district": "7",
+    "neighborhoods": [
+      "Cayuga",
+      "Mission Terrace",
+      "Sunnyside"
+    ]
+  },
+  "1127": {
+    "district": "11",
+    "neighborhoods": [
+      "Cayuga",
+      "Excelsior",
+      "Mission Terrace"
+    ]
+  },
+  "1128": {
+    "district": "7",
+    "neighborhoods": [
+      "St. Marys Park",
+      "Mission Terrace"
+    ]
+  },
+  "1129": {
+    "district": "11",
+    "neighborhoods": [
+      "Excelsior",
+      "St. Marys Park",
+      "Mission Terrace"
+    ]
+  },
+  "1131": {
+    "district": "11",
+    "neighborhoods": [
+      "Excelsior",
+      "University Mound",
+      "St. Marys Park",
+      "Mission Terrace"
+    ]
+  },
+  "1132": {
+    "district": "11",
+    "neighborhoods": [
+      "Excelsior",
+      "University Mound",
+      "Mission Terrace"
+    ]
+  },
+  "1133": {
+    "district": "11",
+    "neighborhoods": [
+      "Excelsior",
+      "Mission Terrace"
+    ]
+  },
+  "1134": {
+    "district": "11",
+    "neighborhoods": [
+      "McLaren Park",
+      "Excelsior",
+      "University Mound",
+      "Mission Terrace"
+    ]
+  },
+  "1135": {
+    "district": "11",
+    "neighborhoods": [
+      "McLaren Park",
+      "Excelsior",
+      "University Mound"
+    ]
+  },
+  "1136": {
+    "district": "11",
+    "neighborhoods": [
+      "Cayuga",
+      "Excelsior",
+      "Mission Terrace"
+    ]
+  },
+  "1137": {
+    "district": "11",
+    "neighborhoods": [
+      "Excelsior"
+    ]
+  },
+  "1138": {
+    "district": "11",
+    "neighborhoods": [
+      "Excelsior"
+    ]
+  },
+  "1139": {
+    "district": "10",
+    "neighborhoods": [
+      "McLaren Park",
+      "Excelsior"
+    ]
+  },
+  "1141": {
+    "district": "11",
+    "neighborhoods": [
+      "Cayuga",
+      "Excelsior"
+    ]
+  },
+  "1142": {
+    "district": "11",
+    "neighborhoods": [
+      "Excelsior"
+    ]
+  },
+  "1143": {
+    "district": "10",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "McLaren Park",
+      "Excelsior"
+    ]
+  },
+  "1144": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Outer Mission",
+      "Cayuga",
+      "Excelsior"
+    ]
+  },
+  "1145": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Outer Mission"
+    ]
+  },
+  "1146": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon"
+    ]
+  },
+  "1147": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Excelsior"
+    ]
+  },
+  "1148": {
+    "district": "11",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Excelsior"
+    ]
+  },
+  "1149": {
+    "district": "10",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "Sunnydale"
+    ]
+  },
+  "7001": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission",
+      "Potrero Hill"
+    ]
+  },
+  "7002": {
+    "district": "10",
+    "neighborhoods": [
+      "Showplace Square",
+      "Mission Bay",
+      "Potrero Hill",
+      "Dogpatch"
+    ]
+  },
+  "7003": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission",
+      "Potrero Hill"
+    ]
+  },
+  "7004": {
+    "district": "10",
+    "neighborhoods": [
+      "Potrero Hill"
+    ]
+  },
+  "7005": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission Bay",
+      "Potrero Hill",
+      "Dogpatch"
+    ]
+  },
+  "7006": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission Bay",
+      "Dogpatch",
+      "Central Waterfront"
+    ]
+  },
+  "7007": {
+    "district": "10",
+    "neighborhoods": [
+      "Potrero Hill"
+    ]
+  },
+  "7008": {
+    "district": "10",
+    "neighborhoods": [
+      "Potrero Hill",
+      "Dogpatch"
+    ]
+  },
+  "7009": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission Bay",
+      "Potrero Hill",
+      "Dogpatch",
+      "Central Waterfront"
+    ]
+  },
+  "7011": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission",
+      "Potrero Hill"
+    ]
+  },
+  "7012": {
+    "district": "10",
+    "neighborhoods": [
+      "Potrero Hill"
+    ]
+  },
+  "7013": {
+    "district": "10",
+    "neighborhoods": [
+      "Potrero Hill"
+    ]
+  },
+  "7014": {
+    "district": "10",
+    "neighborhoods": [
+      "Potrero Hill",
+      "Central Waterfront"
+    ]
+  },
+  "7015": {
+    "district": "10",
+    "neighborhoods": [
+      "Potrero Hill",
+      "Dogpatch",
+      "Central Waterfront"
+    ]
+  },
+  "7016": {
+    "district": "10",
+    "neighborhoods": [
+      "Potrero Hill",
+      "Central Waterfront",
+      "Peralta Heights",
+      "Produce Market",
+      "Bayview"
+    ]
+  },
+  "7017": {
+    "district": "10",
+    "neighborhoods": [
+      "Apparel City",
+      "Bernal Heights",
+      "Produce Market",
+      "Bayview",
+      "Silver Terrace",
+      "Portola"
+    ]
+  },
+  "7018": {
+    "district": "10",
+    "neighborhoods": [
+      "Central Waterfront",
+      "Bayview",
+      "Silver Terrace"
+    ]
+  },
+  "7019": {
+    "district": "10",
+    "neighborhoods": [
+      "Central Waterfront",
+      "India Basin",
+      "Bayview"
+    ]
+  },
+  "7021": {
+    "district": "10",
+    "neighborhoods": [
+      "Apparel City",
+      "Silver Terrace",
+      "Portola"
+    ]
+  },
+  "7022": {
+    "district": "10",
+    "neighborhoods": [
+      "Silver Terrace"
+    ]
+  },
+  "7023": {
+    "district": "10",
+    "neighborhoods": [
+      "Bayview",
+      "Silver Terrace"
+    ]
+  },
+  "7024": {
+    "district": "10",
+    "neighborhoods": [
+      "Bayview",
+      "Silver Terrace"
+    ]
+  },
+  "7025": {
+    "district": "10",
+    "neighborhoods": [
+      "Hunters Point",
+      "Bayview"
+    ]
+  },
+  "7026": {
+    "district": "10",
+    "neighborhoods": [
+      "India Basin",
+      "Hunters Point",
+      "Bayview"
+    ]
+  },
+  "7027": {
+    "district": "10",
+    "neighborhoods": [
+      "India Basin",
+      "Hunters Point",
+      "Bayview"
+    ]
+  },
+  "7028": {
+    "district": "10",
+    "neighborhoods": [
+      "Bayview",
+      "Silver Terrace",
+      "Portola"
+    ]
+  },
+  "7029": {
+    "district": "10",
+    "neighborhoods": [
+      "Silver Terrace"
+    ]
+  },
+  "7031": {
+    "district": "10",
+    "neighborhoods": [
+      "Bayview",
+      "Silver Terrace"
+    ]
+  },
+  "7032": {
+    "district": "10",
+    "neighborhoods": [
+      "Hunters Point",
+      "Bayview"
+    ]
+  },
+  "7033": {
+    "district": "10",
+    "neighborhoods": [
+      "Hunters Point",
+      "Bayview"
+    ]
+  },
+  "7034": {
+    "district": "10",
+    "neighborhoods": [
+      "Hunters Point",
+      "Bayview"
+    ]
+  },
+  "7035": {
+    "district": "10",
+    "neighborhoods": [
+      "Hunters Point",
+      "Bayview"
+    ]
+  },
+  "7036": {
+    "district": "10",
+    "neighborhoods": [
+      "Bayview",
+      "Silver Terrace",
+      "Bret Harte",
+      "Portola"
+    ]
+  },
+  "7037": {
+    "district": "10",
+    "neighborhoods": [
+      "Bayview",
+      "Silver Terrace",
+      "Bret Harte"
+    ]
+  },
+  "7038": {
+    "district": "10",
+    "neighborhoods": [
+      "Hunters Point",
+      "Bayview",
+      "Bret Harte"
+    ]
+  },
+  "7039": {
+    "district": "10",
+    "neighborhoods": [
+      "McLaren Park",
+      "Sunnydale",
+      "Visitacion Valley",
+      "Excelsior"
+    ]
+  },
+  "7041": {
+    "district": "10",
+    "neighborhoods": [
+      "Crocker Amazon",
+      "McLaren Park",
+      "Sunnydale",
+      "Visitacion Valley",
+      "Excelsior"
+    ]
+  },
+  "7042": {
+    "district": "10",
+    "neighborhoods": [
+      "Sunnydale",
+      "Visitacion Valley"
+    ]
+  },
+  "7043": {
+    "district": "10",
+    "neighborhoods": [
+      "Sunnydale",
+      "Visitacion Valley"
+    ]
+  },
+  "7044": {
+    "district": "10",
+    "neighborhoods": [
+      "McLaren Park",
+      "Visitacion Valley",
+      "Portola"
+    ]
+  },
+  "7045": {
+    "district": "10",
+    "neighborhoods": [
+      "McLaren Park",
+      "Visitacion Valley"
+    ]
+  },
+  "7046": {
+    "district": "10",
+    "neighborhoods": [
+      "Visitacion Valley"
+    ]
+  },
+  "7047": {
+    "district": "10",
+    "neighborhoods": [
+      "Visitacion Valley",
+      "Portola"
+    ]
+  },
+  "7048": {
+    "district": "10",
+    "neighborhoods": [
+      "Visitacion Valley",
+      "Portola"
+    ]
+  },
+  "7049": {
+    "district": "10",
+    "neighborhoods": [
+      "Visitacion Valley",
+      "Little Hollywood"
+    ]
+  },
+  "7051": {
+    "district": "10",
+    "neighborhoods": [
+      "Bayview",
+      "Bret Harte",
+      "Portola"
+    ]
+  },
+  "7052": {
+    "district": "10",
+    "neighborhoods": [
+      "Visitacion Valley",
+      "Candlestick Point",
+      "Bret Harte",
+      "Little Hollywood",
+      "Portola"
+    ]
+  },
+  "7053": {
+    "district": "10",
+    "neighborhoods": [
+      "Candlestick Point",
+      "Bret Harte",
+      "Little Hollywood"
+    ]
+  },
+  "7054": {
+    "district": "10",
+    "neighborhoods": [
+      "Candlestick Point",
+      "Bret Harte",
+      "Little Hollywood"
+    ]
+  },
+  "7055": {
+    "district": "10",
+    "neighborhoods": [
+      "Candlestick Point",
+      "Bret Harte"
+    ]
+  },
+  "7056": {
+    "district": "10",
+    "neighborhoods": [
+      "Hunters Point",
+      "Candlestick Point",
+      "Bayview",
+      "Bret Harte"
+    ]
+  },
+  "7201": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights"
+    ]
+  },
+  "7202": {
+    "district": "2",
+    "neighborhoods": [
+      "Japantown",
+      "Pacific Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "7203": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights"
+    ]
+  },
+  "7204": {
+    "district": "2",
+    "neighborhoods": [
+      "Cathedral Hill",
+      "Japantown"
+    ]
+  },
+  "7205": {
+    "district": "2",
+    "neighborhoods": [
+      "Anza Vista",
+      "Western Addition",
+      "Lower Pacific Heights"
+    ]
+  },
+  "7206": {
+    "district": "2",
+    "neighborhoods": [
+      "Panhandle",
+      "Western Addition"
+    ]
+  },
+  "7207": {
+    "district": "2",
+    "neighborhoods": [
+      "Western Addition",
+      "Cathedral Hill",
+      "Japantown"
+    ]
+  },
+  "7208": {
+    "district": "2",
+    "neighborhoods": [
+      "Civic Center",
+      "Cathedral Hill"
+    ]
+  },
+  "7301": {
+    "district": "3",
+    "neighborhoods": [
+      "Fishermans Wharf",
+      "North Beach"
+    ]
+  },
+  "7302": {
+    "district": "3",
+    "neighborhoods": [
+      "Telegraph Hill",
+      "Fishermans Wharf",
+      "North Beach",
+      "Russian Hill"
+    ]
+  },
+  "7303": {
+    "district": "3",
+    "neighborhoods": [
+      "Telegraph Hill",
+      "Northern Waterfront",
+      "Fishermans Wharf",
+      "North Beach"
+    ]
+  },
+  "7304": {
+    "district": "3",
+    "neighborhoods": [
+      "North Beach",
+      "Russian Hill"
+    ]
+  },
+  "7305": {
+    "district": "3",
+    "neighborhoods": [
+      "North Beach",
+      "Russian Hill"
+    ]
+  },
+  "7306": {
+    "district": "3",
+    "neighborhoods": [
+      "Telegraph Hill",
+      "North Beach",
+      "Russian Hill"
+    ]
+  },
+  "7307": {
+    "district": "3",
+    "neighborhoods": [
+      "Telegraph Hill",
+      "Northern Waterfront",
+      "North Beach"
+    ]
+  },
+  "7308": {
+    "district": "3",
+    "neighborhoods": [
+      "Telegraph Hill",
+      "Northern Waterfront",
+      "North Beach"
+    ]
+  },
+  "7309": {
+    "district": "3",
+    "neighborhoods": [
+      "North Beach",
+      "Russian Hill"
+    ]
+  },
+  "7311": {
+    "district": "3",
+    "neighborhoods": [
+      "Chinatown",
+      "North Beach",
+      "Russian Hill"
+    ]
+  },
+  "7312": {
+    "district": "3",
+    "neighborhoods": [
+      "Telegraph Hill",
+      "North Beach"
+    ]
+  },
+  "7313": {
+    "district": "3",
+    "neighborhoods": [
+      "Northern Waterfront",
+      "North Beach",
+      "Financial District"
+    ]
+  },
+  "7314": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Pacific Heights",
+      "Polk Gulch"
+    ]
+  },
+  "7315": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Polk Gulch",
+      "Russian Hill"
+    ]
+  },
+  "7316": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Chinatown",
+      "Russian Hill"
+    ]
+  },
+  "7317": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Chinatown",
+      "North Beach",
+      "Russian Hill"
+    ]
+  },
+  "7318": {
+    "district": "3",
+    "neighborhoods": [
+      "Chinatown",
+      "North Beach",
+      "Financial District"
+    ]
+  },
+  "7319": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Pacific Heights",
+      "Polk Gulch"
+    ]
+  },
+  "7321": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Polk Gulch"
+    ]
+  },
+  "7322": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Polk Gulch"
+    ]
+  },
+  "7323": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Chinatown"
+    ]
+  },
+  "7324": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Lower Nob Hill",
+      "Chinatown"
+    ]
+  },
+  "7325": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Chinatown"
+    ]
+  },
+  "7326": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Chinatown"
+    ]
+  },
+  "7327": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Lower Nob Hill",
+      "Cathedral Hill",
+      "Pacific Heights",
+      "Polk Gulch"
+    ]
+  },
+  "7328": {
+    "district": "3",
+    "neighborhoods": [
+      "Tenderloin",
+      "Lower Nob Hill",
+      "Cathedral Hill"
+    ]
+  },
+  "7329": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Lower Nob Hill"
+    ]
+  },
+  "7331": {
+    "district": "3",
+    "neighborhoods": [
+      "Lower Nob Hill"
+    ]
+  },
+  "7332": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Lower Nob Hill"
+    ]
+  },
+  "7333": {
+    "district": "3",
+    "neighborhoods": [
+      "Tenderloin",
+      "Lower Nob Hill"
+    ]
+  },
+  "7334": {
+    "district": "3",
+    "neighborhoods": [
+      "Downtown",
+      "Tenderloin",
+      "Lower Nob Hill"
+    ]
+  },
+  "7335": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Downtown",
+      "Lower Nob Hill"
+    ]
+  },
+  "7336": {
+    "district": "3",
+    "neighborhoods": [
+      "Nob Hill",
+      "Downtown",
+      "Tenderloin",
+      "Lower Nob Hill",
+      "Chinatown"
+    ]
+  },
+  "7337": {
+    "district": "3",
+    "neighborhoods": [
+      "Downtown",
+      "Chinatown",
+      "Financial District"
+    ]
+  },
+  "7338": {
+    "district": "3",
+    "neighborhoods": [
+      "Downtown",
+      "Tenderloin"
+    ]
+  },
+  "7501": {
+    "district": "2",
+    "neighborhoods": [
+      "Japantown",
+      "Pacific Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "7502": {
+    "district": "2",
+    "neighborhoods": [
+      "Japantown",
+      "Pacific Heights"
+    ]
+  },
+  "7503": {
+    "district": "2",
+    "neighborhoods": [
+      "Cathedral Hill",
+      "Japantown",
+      "Pacific Heights"
+    ]
+  },
+  "7504": {
+    "district": "2",
+    "neighborhoods": [
+      "Anza Vista",
+      "Alamo Square",
+      "Western Addition"
+    ]
+  },
+  "7505": {
+    "district": "2",
+    "neighborhoods": [
+      "Anza Vista",
+      "Western Addition",
+      "Lower Pacific Heights"
+    ]
+  },
+  "7506": {
+    "district": "5",
+    "neighborhoods": [
+      "Western Addition",
+      "Japantown",
+      "Lower Pacific Heights"
+    ]
+  },
+  "7507": {
+    "district": "2",
+    "neighborhoods": [
+      "Western Addition",
+      "Cathedral Hill",
+      "Japantown"
+    ]
+  },
+  "7508": {
+    "district": "5",
+    "neighborhoods": [
+      "Alamo Square",
+      "Western Addition"
+    ]
+  },
+  "7509": {
+    "district": "5",
+    "neighborhoods": [
+      "Western Addition"
+    ]
+  },
+  "7511": {
+    "district": "2",
+    "neighborhoods": [
+      "Civic Center",
+      "Hayes Valley",
+      "Western Addition",
+      "Cathedral Hill"
+    ]
+  },
+  "7512": {
+    "district": "5",
+    "neighborhoods": [
+      "Civic Center",
+      "Hayes Valley",
+      "Western Addition",
+      "Cathedral Hill"
+    ]
+  },
+  "7513": {
+    "district": "5",
+    "neighborhoods": [
+      "Alamo Square",
+      "Panhandle",
+      "Lower Haight",
+      "Western Addition",
+      "Buena Vista"
+    ]
+  },
+  "7514": {
+    "district": "5",
+    "neighborhoods": [
+      "Hayes Valley",
+      "Alamo Square",
+      "Western Addition"
+    ]
+  },
+  "7515": {
+    "district": "5",
+    "neighborhoods": [
+      "Hayes Valley",
+      "Western Addition"
+    ]
+  },
+  "7516": {
+    "district": "6",
+    "neighborhoods": [
+      "Civic Center",
+      "Hayes Valley"
+    ]
+  },
+  "7517": {
+    "district": "8",
+    "neighborhoods": [
+      "Lower Haight",
+      "Duboce Triangle",
+      "Buena Vista"
+    ]
+  },
+  "7518": {
+    "district": "5",
+    "neighborhoods": [
+      "Hayes Valley",
+      "Alamo Square",
+      "Lower Haight"
+    ]
+  },
+  "7519": {
+    "district": "5",
+    "neighborhoods": [
+      "Lower Haight"
+    ]
+  },
+  "7521": {
+    "district": "8",
+    "neighborhoods": [
+      "Lower Haight",
+      "Mint Hill",
+      "Duboce Triangle"
+    ]
+  },
+  "7522": {
+    "district": "8",
+    "neighborhoods": [
+      "Hayes Valley",
+      "Lower Haight",
+      "Mint Hill"
+    ]
+  },
+  "7523": {
+    "district": "8",
+    "neighborhoods": [
+      "Civic Center",
+      "Hayes Valley",
+      "Lower Haight",
+      "Mint Hill"
+    ]
+  },
+  "7524": {
+    "district": "3",
+    "neighborhoods": [
+      "Tenderloin",
+      "Lower Nob Hill",
+      "Cathedral Hill"
+    ]
+  },
+  "7525": {
+    "district": "3",
+    "neighborhoods": [
+      "Tenderloin",
+      "Lower Nob Hill"
+    ]
+  },
+  "7526": {
+    "district": "2",
+    "neighborhoods": [
+      "Tenderloin",
+      "Civic Center",
+      "Cathedral Hill"
+    ]
+  },
+  "7527": {
+    "district": "5",
+    "neighborhoods": [
+      "Tenderloin"
+    ]
+  },
+  "7528": {
+    "district": "5",
+    "neighborhoods": [
+      "Tenderloin"
+    ]
+  },
+  "7529": {
+    "district": "5",
+    "neighborhoods": [
+      "Tenderloin"
+    ]
+  },
+  "7531": {
+    "district": "5",
+    "neighborhoods": [
+      "Tenderloin",
+      "Civic Center"
+    ]
+  },
+  "7532": {
+    "district": "6",
+    "neighborhoods": [
+      "Tenderloin",
+      "Civic Center",
+      "Cathedral Hill"
+    ]
+  },
+  "7533": {
+    "district": "3",
+    "neighborhoods": [
+      "Downtown",
+      "Tenderloin"
+    ]
+  },
+  "7534": {
+    "district": "3",
+    "neighborhoods": [
+      "Downtown",
+      "Tenderloin"
+    ]
+  },
+  "7601": {
+    "district": "8",
+    "neighborhoods": [
+      "Civic Center",
+      "Lower Haight",
+      "Mint Hill",
+      "South of Market"
+    ]
+  },
+  "7602": {
+    "district": "8",
+    "neighborhoods": [
+      "Civic Center",
+      "Lower Haight",
+      "South of Market",
+      "Mission"
+    ]
+  },
+  "7603": {
+    "district": "6",
+    "neighborhoods": [
+      "Civic Center"
+    ]
+  },
+  "7604": {
+    "district": "6",
+    "neighborhoods": [
+      "Civic Center",
+      "South of Market"
+    ]
+  },
+  "7605": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market",
+      "Mission"
+    ]
+  },
+  "7606": {
+    "district": "6",
+    "neighborhoods": [
+      "Civic Center",
+      "South of Market"
+    ]
+  },
+  "7607": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market"
+    ]
+  },
+  "7608": {
+    "district": "6",
+    "neighborhoods": [
+      "Tenderloin",
+      "Civic Center",
+      "South of Market"
+    ]
+  },
+  "7609": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market"
+    ]
+  },
+  "7611": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market"
+    ]
+  },
+  "7612": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market",
+      "Showplace Square",
+      "Mission Bay",
+      "Mission"
+    ]
+  },
+  "7613": {
+    "district": "10",
+    "neighborhoods": [
+      "Showplace Square",
+      "Mission Bay",
+      "Mission",
+      "Potrero Hill"
+    ]
+  },
+  "7614": {
+    "district": "6",
+    "neighborhoods": [
+      "Tenderloin",
+      "South of Market"
+    ]
+  },
+  "7615": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market"
+    ]
+  },
+  "7616": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market"
+    ]
+  },
+  "7617": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market",
+      "Mission Bay"
+    ]
+  },
+  "7618": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market",
+      "Mission Bay"
+    ]
+  },
+  "7619": {
+    "district": "6",
+    "neighborhoods": [
+      "Mission Bay"
+    ]
+  },
+  "7621": {
+    "district": "6",
+    "neighborhoods": [
+      "Mission Bay"
+    ]
+  },
+  "7622": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission Bay",
+      "Dogpatch",
+      "Central Waterfront"
+    ]
+  },
+  "7623": {
+    "district": "3",
+    "neighborhoods": [
+      "Downtown",
+      "Tenderloin",
+      "South of Market"
+    ]
+  },
+  "7624": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market"
+    ]
+  },
+  "7625": {
+    "district": "3",
+    "neighborhoods": [
+      "Downtown",
+      "South of Market"
+    ]
+  },
+  "7626": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market"
+    ]
+  },
+  "7627": {
+    "district": "6",
+    "neighborhoods": [
+      "South Beach",
+      "South of Market",
+      "Mission Bay"
+    ]
+  },
+  "7628": {
+    "district": "6",
+    "neighborhoods": [
+      "South Beach",
+      "Mission Bay"
+    ]
+  },
+  "7629": {
+    "district": "6",
+    "neighborhoods": [
+      "South Beach",
+      "Mission Bay"
+    ]
+  },
+  "7631": {
+    "district": "3",
+    "neighborhoods": [
+      "Downtown",
+      "Rincon Hill",
+      "South of Market",
+      "Financial District"
+    ]
+  },
+  "7632": {
+    "district": "6",
+    "neighborhoods": [
+      "Rincon Hill",
+      "South of Market"
+    ]
+  },
+  "7633": {
+    "district": "6",
+    "neighborhoods": [
+      "Rincon Hill",
+      "South Beach",
+      "South of Market"
+    ]
+  },
+  "7634": {
+    "district": "6",
+    "neighborhoods": [
+      "South Beach",
+      "South of Market",
+      "Mission Bay"
+    ]
+  },
+  "7635": {
+    "district": "6",
+    "neighborhoods": [
+      "South Beach",
+      "Mission Bay"
+    ]
+  },
+  "7636": {
+    "district": "3",
+    "neighborhoods": [
+      "South of Market",
+      "Financial District"
+    ]
+  },
+  "7637": {
+    "district": "3",
+    "neighborhoods": [
+      "Rincon Hill",
+      "South of Market",
+      "Financial District"
+    ]
+  },
+  "7638": {
+    "district": "6",
+    "neighborhoods": [
+      "Rincon Hill",
+      "South of Market",
+      "Financial District"
+    ]
+  },
+  "7639": {
+    "district": "6",
+    "neighborhoods": [
+      "Rincon Hill"
+    ]
+  },
+  "7641": {
+    "district": "6",
+    "neighborhoods": [
+      "Rincon Hill"
+    ]
+  },
+  "7642": {
+    "district": "6",
+    "neighborhoods": [
+      "Rincon Hill",
+      "South of Market",
+      "Financial District"
+    ]
+  },
+  "7643": {
+    "district": "3",
+    "neighborhoods": [
+      "Rincon Hill",
+      "Financial District"
+    ]
+  },
+  "7644": {
+    "district": "6",
+    "neighborhoods": [
+      "Rincon Hill",
+      "South Beach"
+    ]
+  },
+  "7645": {
+    "district": "6",
+    "neighborhoods": [
+      "Yerba Buena Island",
+      "Treasure Island"
+    ]
+  },
+  "7701": {
+    "district": "7",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Midtown Terrace",
+      "Upper Market",
+      "Parnassus Heights",
+      "Forest Knolls",
+      "Ashbury Heights"
+    ]
+  },
+  "7702": {
+    "district": "7",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Midtown Terrace",
+      "Laguna Honda",
+      "Upper Market",
+      "Forest Knolls"
+    ]
+  },
+  "7703": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Forest Hill",
+      "Laguna Honda",
+      "Forest Knolls"
+    ]
+  },
+  "7704": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Forest Hill",
+      "West Portal",
+      "Laguna Honda"
+    ]
+  },
+  "7705": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Forest Hill",
+      "West Portal",
+      "Laguna Honda"
+    ]
+  },
+  "7706": {
+    "district": "7",
+    "neighborhoods": [
+      "West Portal",
+      "Laguna Honda",
+      "St. Francis Wood"
+    ]
+  },
+  "7707": {
+    "district": "7",
+    "neighborhoods": [
+      "Laguna Honda",
+      "Miraloma Park",
+      "Glen Park",
+      "Sherwood Forest"
+    ]
+  },
+  "7708": {
+    "district": "7",
+    "neighborhoods": [
+      "West Portal",
+      "Merced Manor",
+      "Balboa Terrace",
+      "Monterey Heights",
+      "St. Francis Wood"
+    ]
+  },
+  "7709": {
+    "district": "7",
+    "neighborhoods": [
+      "West Portal",
+      "Laguna Honda",
+      "Monterey Heights",
+      "Miraloma Park",
+      "St. Francis Wood",
+      "Sherwood Forest"
+    ]
+  },
+  "7711": {
+    "district": "7",
+    "neighborhoods": [
+      "Miraloma Park",
+      "Sherwood Forest"
+    ]
+  },
+  "7712": {
+    "district": "7",
+    "neighborhoods": [
+      "Balboa Terrace",
+      "Mt. Davidson Manor",
+      "Monterey Heights",
+      "St. Francis Wood"
+    ]
+  },
+  "7713": {
+    "district": "7",
+    "neighborhoods": [
+      "Balboa Terrace",
+      "Mt. Davidson Manor",
+      "Monterey Heights",
+      "Westwood Highlands",
+      "Westwood Park",
+      "Sherwood Forest"
+    ]
+  },
+  "7714": {
+    "district": "7",
+    "neighborhoods": [
+      "Monterey Heights",
+      "Westwood Highlands",
+      "Miraloma Park",
+      "Sherwood Forest"
+    ]
+  },
+  "7715": {
+    "district": "7",
+    "neighborhoods": [
+      "Miraloma Park",
+      "Sunnyside",
+      "Sherwood Forest"
+    ]
+  },
+  "7716": {
+    "district": "7",
+    "neighborhoods": [
+      "Miraloma Park",
+      "Sunnyside",
+      "Glen Park"
+    ]
+  },
+  "7717": {
+    "district": "7",
+    "neighborhoods": [
+      "Mt. Davidson Manor",
+      "Monterey Heights",
+      "Westwood Park"
+    ]
+  },
+  "7718": {
+    "district": "7",
+    "neighborhoods": [
+      "Westwood Highlands",
+      "Westwood Park"
+    ]
+  },
+  "7719": {
+    "district": "7",
+    "neighborhoods": [
+      "Monterey Heights",
+      "Westwood Highlands",
+      "Westwood Park",
+      "Miraloma Park",
+      "Sunnyside",
+      "Sherwood Forest"
+    ]
+  },
+  "7801": {
+    "district": "8",
+    "neighborhoods": [
+      "Buena Vista",
+      "Corona Heights",
+      "Eureka Valley"
+    ]
+  },
+  "7802": {
+    "district": "8",
+    "neighborhoods": [
+      "Duboce Triangle",
+      "Castro",
+      "Buena Vista",
+      "Corona Heights"
+    ]
+  },
+  "7803": {
+    "district": "8",
+    "neighborhoods": [
+      "Duboce Triangle",
+      "Buena Vista",
+      "Corona Heights"
+    ]
+  },
+  "7804": {
+    "district": "8",
+    "neighborhoods": [
+      "Duboce Triangle",
+      "Mission Dolores",
+      "Corona Heights"
+    ]
+  },
+  "7805": {
+    "district": "8",
+    "neighborhoods": [
+      "Lower Haight",
+      "Duboce Triangle",
+      "Buena Vista"
+    ]
+  },
+  "7806": {
+    "district": "8",
+    "neighborhoods": [
+      "Mint Hill",
+      "Duboce Triangle",
+      "Mission Dolores"
+    ]
+  },
+  "7807": {
+    "district": "8",
+    "neighborhoods": [
+      "Lower Haight",
+      "Mint Hill",
+      "Duboce Triangle"
+    ]
+  },
+  "7808": {
+    "district": "7",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Buena Vista",
+      "Corona Heights",
+      "Ashbury Heights",
+      "Eureka Valley"
+    ]
+  },
+  "7809": {
+    "district": "8",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Eureka Valley"
+    ]
+  },
+  "7811": {
+    "district": "8",
+    "neighborhoods": [
+      "Duboce Triangle",
+      "Castro",
+      "Corona Heights",
+      "Eureka Valley"
+    ]
+  },
+  "7812": {
+    "district": "8",
+    "neighborhoods": [
+      "Duboce Triangle",
+      "Mission Dolores",
+      "Castro",
+      "Dolores Heights",
+      "Corona Heights"
+    ]
+  },
+  "7813": {
+    "district": "8",
+    "neighborhoods": [
+      "Duboce Triangle",
+      "Mission Dolores"
+    ]
+  },
+  "7814": {
+    "district": "8",
+    "neighborhoods": [
+      "Lower Haight",
+      "Mint Hill",
+      "Duboce Triangle",
+      "South of Market",
+      "Mission Dolores"
+    ]
+  },
+  "7815": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission Dolores"
+    ]
+  },
+  "7816": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission Dolores",
+      "Castro",
+      "Dolores Heights"
+    ]
+  },
+  "7817": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission Dolores"
+    ]
+  },
+  "7818": {
+    "district": "7",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Upper Market",
+      "Eureka Valley"
+    ]
+  },
+  "7819": {
+    "district": "8",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Upper Market",
+      "Eureka Valley"
+    ]
+  },
+  "7821": {
+    "district": "8",
+    "neighborhoods": [
+      "Castro",
+      "Eureka Valley"
+    ]
+  },
+  "7822": {
+    "district": "8",
+    "neighborhoods": [
+      "Castro",
+      "Dolores Heights",
+      "Eureka Valley"
+    ]
+  },
+  "7823": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission Dolores",
+      "Dolores Heights",
+      "Noe Valley",
+      "Eureka Valley"
+    ]
+  },
+  "7824": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights"
+    ]
+  },
+  "7825": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission Dolores",
+      "Dolores Heights"
+    ]
+  },
+  "7826": {
+    "district": "7",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Midtown Terrace",
+      "Upper Market"
+    ]
+  },
+  "7827": {
+    "district": "8",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Midtown Terrace",
+      "Upper Market"
+    ]
+  },
+  "7828": {
+    "district": "8",
+    "neighborhoods": [
+      "Upper Market",
+      "Diamond Heights",
+      "Noe Valley",
+      "Eureka Valley"
+    ]
+  },
+  "7829": {
+    "district": "8",
+    "neighborhoods": [
+      "Upper Market",
+      "Diamond Heights",
+      "Noe Valley"
+    ]
+  },
+  "7831": {
+    "district": "8",
+    "neighborhoods": [
+      "Upper Market",
+      "Noe Valley",
+      "Eureka Valley"
+    ]
+  },
+  "7832": {
+    "district": "8",
+    "neighborhoods": [
+      "Noe Valley"
+    ]
+  },
+  "7833": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Noe Valley",
+      "Eureka Valley"
+    ]
+  },
+  "7834": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Noe Valley"
+    ]
+  },
+  "7835": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Noe Valley"
+    ]
+  },
+  "7836": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Mission"
+    ]
+  },
+  "7837": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Mission",
+      "Bernal Heights",
+      "Noe Valley"
+    ]
+  },
+  "7838": {
+    "district": "7",
+    "neighborhoods": [
+      "Midtown Terrace",
+      "Laguna Honda",
+      "Upper Market",
+      "Diamond Heights",
+      "Miraloma Park",
+      "Noe Valley",
+      "Glen Park"
+    ]
+  },
+  "7839": {
+    "district": "8",
+    "neighborhoods": [
+      "Diamond Heights",
+      "Fairmount",
+      "Noe Valley"
+    ]
+  },
+  "7841": {
+    "district": "8",
+    "neighborhoods": [
+      "Noe Valley"
+    ]
+  },
+  "7842": {
+    "district": "8",
+    "neighborhoods": [
+      "Diamond Heights",
+      "Fairmount",
+      "Noe Valley"
+    ]
+  },
+  "7843": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Noe Valley"
+    ]
+  },
+  "7844": {
+    "district": "8",
+    "neighborhoods": [
+      "Fairmount",
+      "Noe Valley"
+    ]
+  },
+  "7845": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Fairmount",
+      "Bernal Heights",
+      "Noe Valley"
+    ]
+  },
+  "7846": {
+    "district": "7",
+    "neighborhoods": [
+      "Diamond Heights",
+      "Fairmount",
+      "Miraloma Park",
+      "Glen Park"
+    ]
+  },
+  "7847": {
+    "district": "8",
+    "neighborhoods": [
+      "Diamond Heights",
+      "Glen Park"
+    ]
+  },
+  "7848": {
+    "district": "8",
+    "neighborhoods": [
+      "Diamond Heights",
+      "Fairmount",
+      "Glen Park"
+    ]
+  },
+  "7849": {
+    "district": "8",
+    "neighborhoods": [
+      "Diamond Heights",
+      "Fairmount",
+      "Noe Valley"
+    ]
+  },
+  "7851": {
+    "district": "8",
+    "neighborhoods": [
+      "Fairmount",
+      "Holly Park",
+      "Bernal Heights",
+      "Noe Valley"
+    ]
+  },
+  "7852": {
+    "district": "8",
+    "neighborhoods": [
+      "Fairmount",
+      "St. Marys Park",
+      "Glen Park"
+    ]
+  },
+  "7853": {
+    "district": "8",
+    "neighborhoods": [
+      "Fairmount",
+      "Holly Park",
+      "Bernal Heights",
+      "St. Marys Park"
+    ]
+  },
+  "7854": {
+    "district": "11",
+    "neighborhoods": [
+      "Fairmount",
+      "St. Marys Park",
+      "Mission Terrace",
+      "Glen Park"
+    ]
+  },
+  "7901": {
+    "district": "8",
+    "neighborhoods": [
+      "Mint Hill",
+      "South of Market",
+      "Mission Dolores",
+      "Mission"
+    ]
+  },
+  "7902": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market",
+      "Mission Dolores",
+      "Mission"
+    ]
+  },
+  "7903": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission Dolores",
+      "Mission"
+    ]
+  },
+  "7904": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7905": {
+    "district": "6",
+    "neighborhoods": [
+      "South of Market",
+      "Mission"
+    ]
+  },
+  "7906": {
+    "district": "10",
+    "neighborhoods": [
+      "South of Market",
+      "Showplace Square",
+      "Mission",
+      "Potrero Hill"
+    ]
+  },
+  "7907": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission Dolores",
+      "Dolores Heights",
+      "Mission"
+    ]
+  },
+  "7908": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7909": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission Dolores",
+      "Dolores Heights",
+      "Mission"
+    ]
+  },
+  "7911": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7912": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7913": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Mission"
+    ]
+  },
+  "7914": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7915": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7916": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7917": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission",
+      "Potrero Hill"
+    ]
+  },
+  "7918": {
+    "district": "8",
+    "neighborhoods": [
+      "Dolores Heights",
+      "Mission"
+    ]
+  },
+  "7919": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7921": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7922": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission"
+    ]
+  },
+  "7923": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission",
+      "Potrero Hill"
+    ]
+  },
+  "7924": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission",
+      "Potrero Hill",
+      "Peralta Heights"
+    ]
+  },
+  "7925": {
+    "district": "8",
+    "neighborhoods": [
+      "Mission",
+      "Bernal Heights",
+      "Noe Valley"
+    ]
+  },
+  "7926": {
+    "district": "9",
+    "neighborhoods": [
+      "Mission",
+      "Peralta Heights",
+      "Bernal Heights"
+    ]
+  },
+  "7927": {
+    "district": "10",
+    "neighborhoods": [
+      "Mission",
+      "Potrero Hill",
+      "Peralta Heights",
+      "Bernal Heights"
+    ]
+  },
+  "7928": {
+    "district": "9",
+    "neighborhoods": [
+      "Bernal Heights"
+    ]
+  },
+  "7929": {
+    "district": "9",
+    "neighborhoods": [
+      "Peralta Heights",
+      "Bernal Heights"
+    ]
+  },
+  "7931": {
+    "district": "10",
+    "neighborhoods": [
+      "Peralta Heights",
+      "Apparel City",
+      "Bernal Heights",
+      "Produce Market"
+    ]
+  },
+  "7932": {
+    "district": "8",
+    "neighborhoods": [
+      "Holly Park",
+      "Bernal Heights"
+    ]
+  },
+  "7933": {
+    "district": "9",
+    "neighborhoods": [
+      "Holly Park",
+      "Bernal Heights"
+    ]
+  },
+  "7934": {
+    "district": "9",
+    "neighborhoods": [
+      "Bernal Heights"
+    ]
+  },
+  "7935": {
+    "district": "8",
+    "neighborhoods": [
+      "Holly Park",
+      "Bernal Heights",
+      "St. Marys Park"
+    ]
+  },
+  "7936": {
+    "district": "9",
+    "neighborhoods": [
+      "Holly Park",
+      "Bernal Heights",
+      "St. Marys Park"
+    ]
+  },
+  "7937": {
+    "district": "9",
+    "neighborhoods": [
+      "Bernal Heights"
+    ]
+  },
+  "7938": {
+    "district": "10",
+    "neighborhoods": [
+      "Apparel City",
+      "Bernal Heights",
+      "Portola"
+    ]
+  },
+  "7939": {
+    "district": "11",
+    "neighborhoods": [
+      "Holly Park",
+      "St. Marys Park",
+      "Mission Terrace"
+    ]
+  },
+  "7941": {
+    "district": "11",
+    "neighborhoods": [
+      "Holly Park",
+      "Bernal Heights",
+      "Portola",
+      "University Mound",
+      "St. Marys Park",
+      "Mission Terrace"
+    ]
+  },
+  "7942": {
+    "district": "11",
+    "neighborhoods": [
+      "Bernal Heights",
+      "Portola",
+      "University Mound"
+    ]
+  },
+  "7943": {
+    "district": "10",
+    "neighborhoods": [
+      "Silver Terrace",
+      "Portola"
+    ]
+  },
+  "7944": {
+    "district": "9",
+    "neighborhoods": [
+      "Portola",
+      "University Mound"
+    ]
+  },
+  "7945": {
+    "district": "9",
+    "neighborhoods": [
+      "Portola"
+    ]
+  },
+  "7946": {
+    "district": "10",
+    "neighborhoods": [
+      "McLaren Park",
+      "Portola",
+      "University Mound"
+    ]
+  },
+  "7947": {
+    "district": "9",
+    "neighborhoods": [
+      "McLaren Park",
+      "Portola",
+      "University Mound"
+    ]
+  },
+  "7948": {
+    "district": "10",
+    "neighborhoods": [
+      "McLaren Park",
+      "Visitacion Valley",
+      "Portola"
+    ]
+  },
+  "7949": {
+    "district": "10",
+    "neighborhoods": [
+      "Portola"
+    ]
+  },
+  "9101": {
+    "district": "1",
+    "neighborhoods": [
+      "Sutro Heights",
+      "Lincoln Park",
+      "Outer Richmond"
+    ]
+  },
+  "9102": {
+    "district": "1",
+    "neighborhoods": [
+      "Seacliff",
+      "Sutro Heights",
+      "Lincoln Park",
+      "Outer Richmond"
+    ]
+  },
+  "9103": {
+    "district": "1",
+    "neighborhoods": [
+      "Seacliff",
+      "Lake Street",
+      "Presidio",
+      "Lincoln Park",
+      "Outer Richmond"
+    ]
+  },
+  "9104": {
+    "district": "1",
+    "neighborhoods": [
+      "Seacliff",
+      "Outer Richmond"
+    ]
+  },
+  "9105": {
+    "district": "1",
+    "neighborhoods": [
+      "Seacliff",
+      "Lake Street",
+      "Outer Richmond"
+    ]
+  },
+  "9106": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond"
+    ]
+  },
+  "9107": {
+    "district": "1",
+    "neighborhoods": [
+      "Seacliff",
+      "Lake Street",
+      "Presidio",
+      "Inner Richmond",
+      "Outer Richmond"
+    ]
+  },
+  "9108": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond"
+    ]
+  },
+  "9109": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond",
+      "Outer Richmond"
+    ]
+  },
+  "9111": {
+    "district": "1",
+    "neighborhoods": [
+      "Lake Street",
+      "Presidio",
+      "Inner Richmond"
+    ]
+  },
+  "9112": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond"
+    ]
+  },
+  "9113": {
+    "district": "1",
+    "neighborhoods": [
+      "Lake Street",
+      "Presidio",
+      "Presidio Terrace",
+      "Inner Richmond"
+    ]
+  },
+  "9114": {
+    "district": "1",
+    "neighborhoods": [
+      "Presidio Terrace",
+      "Inner Richmond"
+    ]
+  },
+  "9115": {
+    "district": "1",
+    "neighborhoods": [
+      "Presidio",
+      "Presidio Terrace",
+      "Inner Richmond"
+    ]
+  },
+  "9116": {
+    "district": "1",
+    "neighborhoods": [
+      "Presidio Terrace",
+      "Inner Richmond"
+    ]
+  },
+  "9117": {
+    "district": "1",
+    "neighborhoods": [
+      "Presidio",
+      "Presidio Terrace"
+    ]
+  },
+  "9118": {
+    "district": "1",
+    "neighborhoods": [
+      "Presidio Terrace",
+      "Inner Richmond",
+      "Laurel Heights"
+    ]
+  },
+  "9119": {
+    "district": "4",
+    "neighborhoods": [
+      "Sutro Heights",
+      "Lincoln Park",
+      "Outer Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9121": {
+    "district": "1",
+    "neighborhoods": [
+      "Sutro Heights",
+      "Outer Richmond"
+    ]
+  },
+  "9122": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond"
+    ]
+  },
+  "9123": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond"
+    ]
+  },
+  "9124": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond"
+    ]
+  },
+  "9125": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond"
+    ]
+  },
+  "9126": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond",
+      "Outer Richmond"
+    ]
+  },
+  "9127": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond"
+    ]
+  },
+  "9128": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond"
+    ]
+  },
+  "9129": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond"
+    ]
+  },
+  "9131": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond"
+    ]
+  },
+  "9132": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond"
+    ]
+  },
+  "9133": {
+    "district": "1",
+    "neighborhoods": [
+      "Sutro Heights",
+      "Outer Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9134": {
+    "district": "1",
+    "neighborhoods": [
+      "Sutro Heights",
+      "Outer Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9135": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9136": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9137": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9138": {
+    "district": "1",
+    "neighborhoods": [
+      "Outer Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9139": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond",
+      "Outer Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9141": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond",
+      "Golden Gate Park"
+    ]
+  },
+  "9142": {
+    "district": "7",
+    "neighborhoods": [
+      "Inner Richmond",
+      "Outer Richmond",
+      "Golden Gate Park",
+      "Lone Mountain",
+      "Panhandle"
+    ]
+  },
+  "9143": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond"
+    ]
+  },
+  "9144": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond",
+      "Golden Gate Park",
+      "Lone Mountain"
+    ]
+  },
+  "9145": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond",
+      "Golden Gate Park",
+      "Lone Mountain"
+    ]
+  },
+  "9146": {
+    "district": "1",
+    "neighborhoods": [
+      "Lone Mountain",
+      "Anza Vista",
+      "Panhandle",
+      "Western Addition"
+    ]
+  },
+  "9147": {
+    "district": "1",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Lone Mountain",
+      "Panhandle"
+    ]
+  },
+  "9201": {
+    "district": "1",
+    "neighborhoods": [
+      "Seacliff",
+      "Lake Street",
+      "Presidio",
+      "Presidio Terrace"
+    ]
+  },
+  "9202": {
+    "district": "1",
+    "neighborhoods": [
+      "Presidio",
+      "Presidio Terrace",
+      "Cow Hollow",
+      "Marina",
+      "Pacific Heights"
+    ]
+  },
+  "9203": {
+    "district": "2",
+    "neighborhoods": [
+      "Marina"
+    ]
+  },
+  "9204": {
+    "district": "2",
+    "neighborhoods": [
+      "Marina"
+    ]
+  },
+  "9205": {
+    "district": "2",
+    "neighborhoods": [
+      "Marina",
+      "Fort Mason"
+    ]
+  },
+  "9206": {
+    "district": "3",
+    "neighborhoods": [
+      "Union Street",
+      "Marina",
+      "Fort Mason"
+    ]
+  },
+  "9207": {
+    "district": "3",
+    "neighborhoods": [
+      "Marina",
+      "Fort Mason",
+      "Fishermans Wharf",
+      "Russian Hill"
+    ]
+  },
+  "9208": {
+    "district": "2",
+    "neighborhoods": [
+      "Cow Hollow",
+      "Marina"
+    ]
+  },
+  "9209": {
+    "district": "2",
+    "neighborhoods": [
+      "Cow Hollow",
+      "Marina"
+    ]
+  },
+  "9211": {
+    "district": "2",
+    "neighborhoods": [
+      "Cow Hollow",
+      "Union Street",
+      "Marina",
+      "Fort Mason"
+    ]
+  },
+  "9212": {
+    "district": "2",
+    "neighborhoods": [
+      "Union Street",
+      "Marina",
+      "Fort Mason"
+    ]
+  },
+  "9213": {
+    "district": "2",
+    "neighborhoods": [
+      "Cow Hollow",
+      "Marina"
+    ]
+  },
+  "9214": {
+    "district": "2",
+    "neighborhoods": [
+      "Cow Hollow",
+      "Union Street"
+    ]
+  },
+  "9215": {
+    "district": "3",
+    "neighborhoods": [
+      "Union Street"
+    ]
+  },
+  "9216": {
+    "district": "2",
+    "neighborhoods": [
+      "Presidio",
+      "Cow Hollow",
+      "Pacific Heights"
+    ]
+  },
+  "9217": {
+    "district": "2",
+    "neighborhoods": [
+      "Cow Hollow",
+      "Union Street",
+      "Pacific Heights"
+    ]
+  },
+  "9218": {
+    "district": "2",
+    "neighborhoods": [
+      "Union Street",
+      "Pacific Heights"
+    ]
+  },
+  "9219": {
+    "district": "2",
+    "neighborhoods": [
+      "Union Street",
+      "Pacific Heights"
+    ]
+  },
+  "9221": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights"
+    ]
+  },
+  "9222": {
+    "district": "3",
+    "neighborhoods": [
+      "Union Street",
+      "Pacific Heights"
+    ]
+  },
+  "9223": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights"
+    ]
+  },
+  "9224": {
+    "district": "3",
+    "neighborhoods": [
+      "Pacific Heights"
+    ]
+  },
+  "9225": {
+    "district": "1",
+    "neighborhoods": [
+      "Presidio",
+      "Presidio Terrace",
+      "Presidio Heights",
+      "Laurel Heights"
+    ]
+  },
+  "9226": {
+    "district": "2",
+    "neighborhoods": [
+      "Presidio",
+      "Presidio Heights",
+      "Laurel Heights"
+    ]
+  },
+  "9227": {
+    "district": "2",
+    "neighborhoods": [
+      "Presidio",
+      "Presidio Heights",
+      "Pacific Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9228": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights"
+    ]
+  },
+  "9229": {
+    "district": "1",
+    "neighborhoods": [
+      "Presidio Terrace",
+      "Inner Richmond",
+      "Presidio Heights",
+      "Laurel Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9231": {
+    "district": "2",
+    "neighborhoods": [
+      "Presidio Heights",
+      "Laurel Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9232": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9233": {
+    "district": "1",
+    "neighborhoods": [
+      "Inner Richmond",
+      "Laurel Heights",
+      "Lone Mountain"
+    ]
+  },
+  "9234": {
+    "district": "1",
+    "neighborhoods": [
+      "Laurel Heights",
+      "Lone Mountain"
+    ]
+  },
+  "9235": {
+    "district": "1",
+    "neighborhoods": [
+      "Laurel Heights",
+      "Lone Mountain",
+      "Anza Vista",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9236": {
+    "district": "1",
+    "neighborhoods": [
+      "Laurel Heights",
+      "Lone Mountain",
+      "Anza Vista",
+      "Western Addition",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9237": {
+    "district": "2",
+    "neighborhoods": [
+      "Lone Mountain",
+      "Panhandle",
+      "Western Addition"
+    ]
+  },
+  "9238": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9239": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9241": {
+    "district": "2",
+    "neighborhoods": [
+      "Pacific Heights"
+    ]
+  },
+  "9242": {
+    "district": "3",
+    "neighborhoods": [
+      "Cathedral Hill",
+      "Pacific Heights"
+    ]
+  },
+  "9243": {
+    "district": "3",
+    "neighborhoods": [
+      "Cathedral Hill",
+      "Pacific Heights"
+    ]
+  },
+  "9301": {
+    "district": "3",
+    "neighborhoods": [
+      "Fort Mason",
+      "Fishermans Wharf",
+      "North Beach",
+      "Russian Hill"
+    ]
+  },
+  "9302": {
+    "district": "3",
+    "neighborhoods": [
+      "Union Street",
+      "Marina",
+      "Russian Hill"
+    ]
+  },
+  "9303": {
+    "district": "3",
+    "neighborhoods": [
+      "Union Street",
+      "Polk Gulch",
+      "Russian Hill"
+    ]
+  },
+  "9304": {
+    "district": "3",
+    "neighborhoods": [
+      "Polk Gulch",
+      "Russian Hill"
+    ]
+  },
+  "9305": {
+    "district": "3",
+    "neighborhoods": [
+      "Union Street",
+      "Pacific Heights",
+      "Polk Gulch",
+      "Russian Hill"
+    ]
+  },
+  "9306": {
+    "district": "3",
+    "neighborhoods": [
+      "Russian Hill"
+    ]
+  },
+  "9401": {
+    "district": "4",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Outer Sunset"
+    ]
+  },
+  "9402": {
+    "district": "4",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Outer Sunset"
+    ]
+  },
+  "9403": {
+    "district": "4",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Outer Sunset"
+    ]
+  },
+  "9404": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Outer Sunset"
+    ]
+  },
+  "9405": {
+    "district": "4",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Outer Sunset"
+    ]
+  },
+  "9406": {
+    "district": "4",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Outer Sunset"
+    ]
+  },
+  "9407": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Outer Sunset",
+      "Inner Sunset"
+    ]
+  },
+  "9408": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9409": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9411": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9412": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9413": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9414": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9415": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9416": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9417": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9418": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9419": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9421": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9422": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9423": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9424": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9425": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9426": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9427": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9428": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9429": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9431": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9432": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9433": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9434": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9435": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9436": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9437": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9438": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset"
+    ]
+  },
+  "9439": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9441": {
+    "district": "4",
+    "neighborhoods": [
+      "Parkside"
+    ]
+  },
+  "9442": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside"
+    ]
+  },
+  "9443": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9444": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside",
+      "Lakeshore"
+    ]
+  },
+  "9445": {
+    "district": "4",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside"
+    ]
+  },
+  "9446": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside"
+    ]
+  },
+  "9447": {
+    "district": "4",
+    "neighborhoods": [
+      "Parkside"
+    ]
+  },
+  "9448": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside"
+    ]
+  },
+  "9449": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside",
+      "Lakeshore"
+    ]
+  },
+  "9451": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside",
+      "Lakeshore",
+      "Merced Manor"
+    ]
+  },
+  "9452": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside",
+      "Stonestown",
+      "Parkmerced",
+      "Lakeshore",
+      "Merced Manor"
+    ]
+  },
+  "9501": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Panhandle",
+      "Haight Ashbury",
+      "Cole Valley",
+      "Parnassus Heights"
+    ]
+  },
+  "9502": {
+    "district": "1",
+    "neighborhoods": [
+      "Lone Mountain",
+      "Panhandle"
+    ]
+  },
+  "9503": {
+    "district": "1",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Panhandle",
+      "Haight Ashbury"
+    ]
+  },
+  "9504": {
+    "district": "8",
+    "neighborhoods": [
+      "Haight Ashbury",
+      "Cole Valley",
+      "Buena Vista",
+      "Ashbury Heights"
+    ]
+  },
+  "9505": {
+    "district": "1",
+    "neighborhoods": [
+      "Lone Mountain",
+      "Panhandle",
+      "Western Addition"
+    ]
+  },
+  "9506": {
+    "district": "8",
+    "neighborhoods": [
+      "Panhandle",
+      "Haight Ashbury",
+      "Buena Vista"
+    ]
+  },
+  "9507": {
+    "district": "2",
+    "neighborhoods": [
+      "Panhandle",
+      "Western Addition"
+    ]
+  },
+  "9508": {
+    "district": "2",
+    "neighborhoods": [
+      "Panhandle",
+      "Western Addition",
+      "Buena Vista"
+    ]
+  },
+  "9509": {
+    "district": "8",
+    "neighborhoods": [
+      "Panhandle",
+      "Lower Haight",
+      "Buena Vista"
+    ]
+  },
+  "9511": {
+    "district": "2",
+    "neighborhoods": [
+      "Laurel Heights",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9512": {
+    "district": "2",
+    "neighborhoods": [
+      "Western Addition",
+      "Lower Pacific Heights"
+    ]
+  },
+  "9513": {
+    "district": "2",
+    "neighborhoods": [
+      "Lower Pacific Heights"
+    ]
+  },
+  "9701": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Inner Sunset"
+    ]
+  },
+  "9702": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Inner Sunset"
+    ]
+  },
+  "9703": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Inner Sunset"
+    ]
+  },
+  "9704": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Inner Sunset",
+      "Parnassus Heights"
+    ]
+  },
+  "9705": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Inner Sunset"
+    ]
+  },
+  "9706": {
+    "district": "7",
+    "neighborhoods": [
+      "Inner Sunset"
+    ]
+  },
+  "9707": {
+    "district": "7",
+    "neighborhoods": [
+      "Inner Sunset"
+    ]
+  },
+  "9708": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Clarendon Heights",
+      "Inner Sunset",
+      "Parnassus Heights",
+      "Forest Knolls"
+    ]
+  },
+  "9709": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Golden Gate Heights",
+      "Inner Sunset"
+    ]
+  },
+  "9711": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Inner Sunset"
+    ]
+  },
+  "9712": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Inner Sunset"
+    ]
+  },
+  "9713": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Forest Hill",
+      "Forest Knolls"
+    ]
+  },
+  "9714": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Forest Hill",
+      "Clarendon Heights",
+      "Midtown Terrace",
+      "Laguna Honda",
+      "Parnassus Heights",
+      "Forest Knolls"
+    ]
+  },
+  "9715": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside",
+      "Golden Gate Heights"
+    ]
+  },
+  "9716": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Heights",
+      "Forest Hill"
+    ]
+  },
+  "9717": {
+    "district": "7",
+    "neighborhoods": [
+      "Outer Sunset",
+      "Parkside",
+      "Golden Gate Heights"
+    ]
+  },
+  "9718": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside",
+      "Golden Gate Heights",
+      "West Portal"
+    ]
+  },
+  "9719": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside",
+      "West Portal",
+      "St. Francis Wood"
+    ]
+  },
+  "9721": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside",
+      "Stonestown",
+      "West Portal",
+      "Merced Manor",
+      "Balboa Terrace",
+      "Ingleside Terraces",
+      "Mt. Davidson Manor",
+      "St. Francis Wood"
+    ]
+  },
+  "9722": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkside",
+      "Parkmerced",
+      "Lakeshore"
+    ]
+  },
+  "9723": {
+    "district": "7",
+    "neighborhoods": [
+      "Stonestown",
+      "Parkmerced",
+      "Lakeshore"
+    ]
+  },
+  "9724": {
+    "district": "7",
+    "neighborhoods": [
+      "Stonestown",
+      "Parkmerced",
+      "Ingleside",
+      "Ingleside Terraces"
+    ]
+  },
+  "9725": {
+    "district": "7",
+    "neighborhoods": [
+      "Ingleside",
+      "Ingleside Terraces",
+      "Mt. Davidson Manor"
+    ]
+  },
+  "9726": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkmerced",
+      "Lakeshore"
+    ]
+  },
+  "9727": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkmerced",
+      "Merced Heights"
+    ]
+  },
+  "9728": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkmerced",
+      "Lakeshore",
+      "Merced Heights"
+    ]
+  },
+  "9729": {
+    "district": "7",
+    "neighborhoods": [
+      "Parkmerced",
+      "Lakeshore",
+      "Merced Heights"
+    ]
+  },
+  "9731": {
+    "district": "7",
+    "neighborhoods": [
+      "Merced Heights",
+      "Outer Mission",
+      "Oceanview"
+    ]
+  },
+  "9732": {
+    "district": "7",
+    "neighborhoods": [
+      "Westwood Park",
+      "Mission Terrace",
+      "Sunnyside"
+    ]
+  },
+  "9733": {
+    "district": "7",
+    "neighborhoods": [
+      "Westwood Highlands",
+      "Westwood Park",
+      "Miraloma Park",
+      "Sunnyside",
+      "Sherwood Forest"
+    ]
+  },
+  "9734": {
+    "district": "7",
+    "neighborhoods": [
+      "Miraloma Park",
+      "Sunnyside"
+    ]
+  },
+  "9735": {
+    "district": "7",
+    "neighborhoods": [
+      "Mission Terrace",
+      "Sunnyside",
+      "Glen Park"
+    ]
+  },
+  "9801": {
+    "district": "7",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Cole Valley",
+      "Inner Sunset",
+      "Parnassus Heights",
+      "Ashbury Heights"
+    ]
+  },
+  "9802": {
+    "district": "7",
+    "neighborhoods": [
+      "Clarendon Heights",
+      "Parnassus Heights",
+      "Ashbury Heights",
+      "Eureka Valley"
+    ]
+  },
+  "9803": {
+    "district": "8",
+    "neighborhoods": [
+      "Golden Gate Park",
+      "Haight Ashbury",
+      "Cole Valley",
+      "Parnassus Heights"
+    ]
+  },
+  "9804": {
+    "district": "8",
+    "neighborhoods": [
+      "Haight Ashbury",
+      "Cole Valley",
+      "Parnassus Heights",
+      "Ashbury Heights"
+    ]
+  },
+  "9805": {
+    "district": "8",
+    "neighborhoods": [
+      "Cole Valley",
+      "Parnassus Heights",
+      "Buena Vista",
+      "Ashbury Heights",
+      "Eureka Valley"
+    ]
+  },
+  "9806": {
+    "district": "8",
+    "neighborhoods": [
+      "Haight Ashbury",
+      "Cole Valley",
+      "Buena Vista",
+      "Ashbury Heights",
+      "Eureka Valley"
+    ]
+  },
+  "9807": {
+    "district": "8",
+    "neighborhoods": [
+      "Haight Ashbury",
+      "Duboce Triangle",
+      "Buena Vista"
+    ]
+  },
+  "9808": {
+    "district": "7",
+    "neighborhoods": [
+      "Miraloma Park",
+      "St. Marys Park",
+      "Mission Terrace",
+      "Sunnyside",
+      "Glen Park"
+    ]
+  },
+  "9901": {
+    "district": "11",
+    "neighborhoods": [
+      "St. Marys Park",
+      "Mission Terrace",
+      "Sunnyside",
+      "Glen Park"
+    ]
+  },
+  "9902": {
+    "district": "10",
+    "neighborhoods": [
+      "Bayview",
+      "Silver Terrace",
+      "Portola"
+    ]
+  },
+  "9903": {
+    "district": "6",
+    "neighborhoods": []
+  },
+  "9904": {
+    "district": "6",
+    "neighborhoods": []
+  }
+}

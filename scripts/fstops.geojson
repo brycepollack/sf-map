@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434979,
+          37.762576
+        ]
+      },
+      "properties": {
+        "stop_id": "3311",
+        "name": "17th St & Castro St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433323,
+          37.763958
+        ]
+      },
+      "properties": {
+        "stop_id": "5687",
+        "name": "Market St & Noe St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.431216,
+          37.765632
+        ]
+      },
+      "properties": {
+        "stop_id": "7123",
+        "name": "Market St & Sanchez St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429099,
+          37.767277
+        ]
+      },
+      "properties": {
+        "stop_id": "8062",
+        "name": "Market St & Church St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.427103,
+          37.76888
+        ]
+      },
+      "properties": {
+        "stop_id": "5668",
+        "name": "Market St & Dolores St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424971,
+          37.77057
+        ]
+      },
+      "properties": {
+        "stop_id": "5675",
+        "name": "Market St & Guerrero St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421991,
+          37.772875
+        ]
+      },
+      "properties": {
+        "stop_id": "5673",
+        "name": "Market St & Gough St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419321,
+          37.775056
+        ]
+      },
+      "properties": {
+        "stop_id": "5692",
+        "name": "Market St & South Van Ness Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41634,
+          37.77741
+        ]
+      },
+      "properties": {
+        "stop_id": "5652",
+        "name": "Market St & 9th St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414826,
+          37.778606
+        ]
+      },
+      "properties": {
+        "stop_id": "5651",
+        "name": "Market St & 8th St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.412441,
+          37.780568
+        ]
+      },
+      "properties": {
+        "stop_id": "5656",
+        "name": "Market St & 7th St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.411329,
+          37.78129
+        ]
+      },
+      "properties": {
+        "stop_id": "5648",
+        "name": "Market St & 6th St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.408657,
+          37.783395
+        ]
+      },
+      "properties": {
+        "stop_id": "5646",
+        "name": "Market St & 5th St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.405847,
+          37.785705
+        ]
+      },
+      "properties": {
+        "stop_id": "5643",
+        "name": "Market St & 4th St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403359,
+          37.787667
+        ]
+      },
+      "properties": {
+        "stop_id": "5641",
+        "name": "Market St & 3rd St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.402163,
+          37.788613
+        ]
+      },
+      "properties": {
+        "stop_id": "5685",
+        "name": "Market St & New Montgomery St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399195,
+          37.79094
+        ]
+      },
+      "properties": {
+        "stop_id": "7264",
+        "name": "Market St & 1st St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.396627,
+          37.792984
+        ]
+      },
+      "properties": {
+        "stop_id": "5682",
+        "name": "Market St & Main St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.395181,
+          37.796355
+        ]
+      },
+      "properties": {
+        "stop_id": "4534",
+        "name": "The Embarcadero & Washington St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.397434,
+          37.798901
+        ]
+      },
+      "properties": {
+        "stop_id": "4504",
+        "name": "The Embarcadero & Broadway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39892,
+          37.800605
+        ]
+      },
+      "properties": {
+        "stop_id": "4518",
+        "name": "The Embarcadero & Green St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401029,
+          37.80296
+        ]
+      },
+      "properties": {
+        "stop_id": "4516",
+        "name": "The Embarcadero & Greenwich St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403314,
+          37.805022
+        ]
+      },
+      "properties": {
+        "stop_id": "4529",
+        "name": "The Embarcadero & Sansome St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40603,
+          37.806629
+        ]
+      },
+      "properties": {
+        "stop_id": "4502",
+        "name": "The Embarcadero & Bay St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413357,
+          37.808594
+        ]
+      },
+      "properties": {
+        "stop_id": "5174",
+        "name": "Jefferson St & Powell St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415514,
+          37.80832
+        ]
+      },
+      "properties": {
+        "stop_id": "5175",
+        "name": "Jefferson St & Taylor St"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417324,
+          37.807132
+        ]
+      },
+      "properties": {
+        "stop_id": "5184",
+        "name": "Jones St & Beach St"
+      }
+    }
+  ]
+}
