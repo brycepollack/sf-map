@@ -1,3 +1,4 @@
+import { useMemo } from 'react';
 import { GeoJSON } from 'react-leaflet';
 
 import { styleGeoJSONFactory } from '@/_core/lib/styleGeoJSONFactory';
@@ -10,9 +11,9 @@ interface BARTLinesLayerProps {
 }
 
 export default function BARTLinesLayer({ data }: BARTLinesLayerProps) {
-  if (!data) return null;
+  const transformedData = useMemo(() => data ? transformBARTLines(data) : null, [data]);
 
-  const transformedData = transformBARTLines(data);
+  if (!transformedData) return null;
 
   return (
     <GeoJSON

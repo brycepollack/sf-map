@@ -1,7 +1,7 @@
 import { Layers, XIcon } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-import { useControlPanel } from '@/context/ControlPanelContext';
+import { useControlPanel } from '@/hooks/useControlPanel';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/_core/lib/shadcn';
 import ControlForm from '@/views/control-panel/form/ControlForm';

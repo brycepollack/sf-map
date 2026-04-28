@@ -1,5 +1,5 @@
 import CollapsibleChipList from '@/components/reusable/CollapsibleChipList';
-import { useSidePanel } from '@/context/SidePanelContext';
+import { useSidePanel } from '@/hooks/useSidePanel';
 
 export default function DistrictsPanel() {
   const { featureData, districtsRelationshipsMap, districtsData } = useSidePanel();

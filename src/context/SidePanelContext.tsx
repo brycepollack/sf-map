@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 import { api } from '@/_api';
 import type {
@@ -8,19 +8,7 @@ import type {
   SidePanelFeatureData,
   PrecinctsRelationshipsMap,
 } from '@/_core/types';
-
-interface SidePanelContextValue {
-  open: boolean;
-  setOpen: (open: boolean) => void;
-  featureData: SidePanelFeatureData | null;
-  setFeatureData: (data: SidePanelFeatureData | null) => void;
-  neighborhoodsRelationshipsMap: NeighborhoodsRelationshipsMap | null;
-  districtsRelationshipsMap: DistrictsRelationshipsMap | null;
-  districtsData: DistrictsData | null;
-  precinctsRelationshipsMap: PrecinctsRelationshipsMap | null;
-}
-
-const SidePanelContext = createContext<SidePanelContextValue | null>(null);
+import { SidePanelContext } from '@/hooks/useSidePanel';
 
 export function SidePanelProvider({ children }: { children: React.ReactNode }) {
   const [open, setOpen] = useState(false);
@@ -56,10 +44,4 @@ export function SidePanelProvider({ children }: { children: React.ReactNode }) {
       {children}
     </SidePanelContext.Provider>
   );
-}
-
-export function useSidePanel() {
-  const ctx = useContext(SidePanelContext);
-  if (!ctx) throw new Error('useSidePanel must be used within SidePanelProvider');
-  return ctx;
 }

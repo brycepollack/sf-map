@@ -10,9 +10,9 @@ interface CaltrainStationsLayerProps {
 }
 
 export default function CaltrainStationsLayer({ data }: CaltrainStationsLayerProps) {
-  if (!data) return null;
+  const transformedData = data ? transformStations(data) : null;
 
-  const transformedData = transformStations(data);
+  if (!transformedData) return null;
 
   return (
     <GeoJSON

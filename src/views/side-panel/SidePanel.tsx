@@ -2,7 +2,7 @@ import { X } from 'lucide-react';
 
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
-import { useSidePanel } from '@/context/SidePanelContext';
+import { useSidePanel } from '@/hooks/useSidePanel';
 import { NEIGHBORHOODS_LAYER, PRECINCTS_LAYER, DISTRICTS_LAYER } from '@/_core/constants';
 import NeighborhoodsPanel from './panels/NeighborhoodsPanel';
 import PrecinctsPanel from './panels/PrecinctsPanel';

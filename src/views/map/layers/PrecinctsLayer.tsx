@@ -3,16 +3,16 @@ import { GeoJSON } from 'react-leaflet';
 import { styleGeoJSONFactory } from '@/_core/lib/styleGeoJSONFactory';
 import { onEachFeatureFactory } from '@/_core/lib/onEachFeatureFactory';
 import { PRECINCTS_LAYER } from '@/_core/constants';
-import { useSidePanel } from '@/context/SidePanelContext';
+import { useSidePanel } from '@/hooks/useSidePanel';
 
 interface PrecinctsLayerProps {
   data: any;
 }
 
 export default function PrecinctsLayer({ data }: PrecinctsLayerProps) {
-  if (!data) return null;
-
   const { setOpen, setFeatureData } = useSidePanel();
+
+  if (!data) return null;
 
   return (
     <GeoJSON

@@ -1,16 +1,8 @@
-import { createContext, useContext, useState } from 'react';
+import { useState } from 'react';
 
 import type { Controls } from '@/_core/types';
 import { DEFAULT_CONTROLS } from '@/_core/constants';
-
-interface ControlPanelContextValue {
-  open: boolean;
-  setOpen: (open: boolean) => void;
-  controls: Controls;
-  toggleControl: (path: string) => void;
-}
-
-const ControlPanelContext = createContext<ControlPanelContextValue | null>(null);
+import { ControlPanelContext } from '@/hooks/useControlPanel';
 
 export function ControlPanelProvider({ children }: { children: React.ReactNode }) {
   const [open, setOpen] = useState(true);
@@ -20,9 +12,9 @@ export function ControlPanelProvider({ children }: { children: React.ReactNode }
     setControls(prev => {
       const updated = structuredClone(prev);
       const keys = path.split('.');
-      let current: any = updated;
+      let current: Record<string, unknown> = updated as Record<string, unknown>;
       for (let i = 0; i < keys.length - 1; i++) {
-        current = current[keys[i]];
+        current = current[keys[i]] as Record<string, unknown>;
       }
       const finalKey = keys[keys.length - 1];
       current[finalKey] = !current[finalKey];
@@ -35,10 +27,4 @@ export function ControlPanelProvider({ children }: { children: React.ReactNode }
       {children}
     </ControlPanelContext.Provider>
   );
-}
-
-export function useControlPanel() {
-  const ctx = useContext(ControlPanelContext);
-  if (!ctx) throw new Error('useControlPanel must be used within ControlPanelProvider');
-  return ctx;
 }

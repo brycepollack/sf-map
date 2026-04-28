@@ -3,18 +3,16 @@ import { GeoJSON } from 'react-leaflet';
 import { POLICE_STATIONS_LAYER } from '@/_core/constants';
 import { onEachFeatureFactory } from '@/_core/lib/onEachFeatureFactory';
 import { pointToLayerFactory } from '@/_core/lib/pointToLayerFactory';
+import { transformPoliceStations } from '@/_core/lib/transformData';
 
 interface PoliceStationsLayerProps {
   data: any;
 }
 
 export default function PoliceStationsLayer({ data }: PoliceStationsLayerProps) {
-  if (!data) return null;
+  const transformedData = data ? transformPoliceStations(data) : null;
 
-  const transformedData = {
-    ...data,
-    features: data.features.filter((f: any) => f.properties?.jurisdiction === 'Police Department'),
-  };
+  if (!transformedData) return null;
 
   return (
     <GeoJSON

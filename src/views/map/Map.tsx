@@ -1,7 +1,7 @@
 import { MapContainer, TileLayer, Marker as LeafletMarker, Popup, useMap } from 'react-leaflet';
 
 import { SF_BOUNDS } from '@/_core/constants';
-import { useControlPanel } from '@/context/ControlPanelContext';
+import { useControlPanel } from '@/hooks/useControlPanel';
 import type { Marker } from '@/_core/types';
 import NeighborhoodsLayer from '@/views/map/layers/NeighborhoodsLayer';
 import PrecinctsLayer from '@/views/map/layers/PrecinctsLayer';

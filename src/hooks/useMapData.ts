@@ -1,7 +1,9 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import type { FeatureCollection, Geometry } from 'geojson';
 
 import { api } from '@/_api';
+import { useControlPanel } from '@/hooks/useControlPanel';
+import { lazyLoad } from '@/_core/lib/lazyLoad';
 import type {
   SFFindNeighborhoodsProperties,
   DataSFPrecinctsProperties,
@@ -14,6 +16,9 @@ import type {
 } from '@/_core/types';
 
 export default function useMapData() {
+  const { controls } = useControlPanel();
+  const fetched = useRef(new Set<string>());
+
   const [neighborhoods, setNeighborhoods] = useState<FeatureCollection<
     Geometry,
     SFFindNeighborhoodsProperties
@@ -46,16 +51,19 @@ export default function useMapData() {
     null,
   );
 
+  const { boundaries, transportation, civics } = controls;
+
   useEffect(() => {
-    api.public.fetchNeighborhoods().then(setNeighborhoods);
-    api.public.fetchPrecincts().then(setPrecincts);
-    api.public.fetchDistricts().then(setDistricts);
-    api.public.fetchSFMTATransit().then(setSfmtaTransit);
-    api.public.fetchBARTTransit().then(setBartTransit);
-    api.public.fetchCaltrainTransit().then(setCaltrainTransit);
-    api.public.fetchFirePoliceStations().then(setFirePoliceStations);
-    api.public.fetchParks().then(setParks);
-  }, []);
+    const f = fetched.current;
+    lazyLoad('neighborhoods', boundaries.visible && boundaries.neighborhoods.visible, f, api.public.fetchNeighborhoods, setNeighborhoods);
+    lazyLoad('precincts',     boundaries.visible && boundaries.precincts.visible,     f, api.public.fetchPrecincts,     setPrecincts);
+    lazyLoad('districts',     boundaries.visible && boundaries.districts.visible,     f, api.public.fetchDistricts,     setDistricts);
+    lazyLoad('sfmta',         transportation.visible,                                 f, api.public.fetchSFMTATransit,  setSfmtaTransit);
+    lazyLoad('bart',          transportation.visible && transportation.bart.visible,  f, api.public.fetchBARTTransit,   setBartTransit);
+    lazyLoad('caltrain',      transportation.visible && transportation.caltrain.visible, f, api.public.fetchCaltrainTransit, setCaltrainTransit);
+    lazyLoad('firePolice',    civics.visible && (civics.fireStations.visible || civics.policeStations.visible), f, api.public.fetchFirePoliceStations, setFirePoliceStations);
+    lazyLoad('parks',         civics.visible && civics.parks.visible,                 f, api.public.fetchParks,         setParks);
+  }, [boundaries, transportation, civics]);
 
   return {
     neighborhoods,

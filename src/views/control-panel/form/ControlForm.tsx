@@ -1,4 +1,4 @@
-import { useControlPanel } from '@/context/ControlPanelContext';
+import { useControlPanel } from '@/hooks/useControlPanel';
 import ControlRow from '@/views/control-panel/form/ControlRow';
 import ControlGroup from '@/views/control-panel/form/ControlGroup';
 

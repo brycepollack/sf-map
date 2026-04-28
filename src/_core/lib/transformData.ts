@@ -4,6 +4,7 @@ import { BART_TRACK_OFFSETS, COLOR_FALLBACK } from '@/_core/tokens';
 import type {
   BARTTransitProperties,
   CaltrainTransitProperties,
+  DataSFFirePoliceStationProperties,
   SFMTATransitProperties,
   Controls,
 } from '@/_core/types';
@@ -56,6 +57,18 @@ export function transformCaltrainLines(
 
 export function transformStations<P>(data: FeatureCollection<Geometry, P>): FeatureCollection<Geometry, P> {
   return { ...data, features: data.features.filter(f => f.geometry.type === 'Point') };
+}
+
+export function transformFireStations(
+  data: FeatureCollection<Geometry, DataSFFirePoliceStationProperties>,
+): FeatureCollection<Geometry, DataSFFirePoliceStationProperties> {
+  return { ...data, features: data.features.filter(f => f.properties?.jurisdiction === 'Fire Department') };
+}
+
+export function transformPoliceStations(
+  data: FeatureCollection<Geometry, DataSFFirePoliceStationProperties>,
+): FeatureCollection<Geometry, DataSFFirePoliceStationProperties> {
+  return { ...data, features: data.features.filter(f => f.properties?.jurisdiction === 'Police Department') };
 }
 
 export function transformSFMTALines(

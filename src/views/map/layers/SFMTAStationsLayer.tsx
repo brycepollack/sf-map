@@ -1,3 +1,4 @@
+import { useMemo } from 'react';
 import { GeoJSON } from 'react-leaflet';
 
 import type { Controls } from '@/_core/types';
@@ -12,11 +13,14 @@ interface SFMTAStationsLayerProps {
 }
 
 export default function SFMTAStationsLayer({ data, controls }: SFMTAStationsLayerProps) {
-  if (!data || !controls) return null;
+  const { metro, buses, cableCar } = controls.transportation;
+  const transformedData = useMemo(
+    () => (data ? transformSFMTAStations(data, controls) : null),
+    [data, controls],
+  );
+  const key = `${metro.visible}-${buses.visible}-${cableCar.visible}`;
 
-  const transformedData = transformSFMTAStations(data, controls);
-
-  const key = `${controls.transportation.metro.visible}-${controls.transportation.buses.visible}-${controls.transportation.cableCar.visible}`;
+  if (!transformedData) return null;
 
   return (
     <GeoJSON

@@ -10,9 +10,9 @@ interface BARTStationsLayerProps {
 }
 
 export default function BARTStationsLayer({ data }: BARTStationsLayerProps) {
-  if (!data) return null;
+  const transformedData = data ? transformStations(data) : null;
 
-  const transformedData = transformStations(data);
+  if (!transformedData) return null;
 
   return (
     <GeoJSON

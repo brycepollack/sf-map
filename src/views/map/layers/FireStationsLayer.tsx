@@ -3,18 +3,16 @@ import { GeoJSON } from 'react-leaflet';
 import { FIRE_STATIONS_LAYER } from '@/_core/constants';
 import { onEachFeatureFactory } from '@/_core/lib/onEachFeatureFactory';
 import { pointToLayerFactory } from '@/_core/lib/pointToLayerFactory';
+import { transformFireStations } from '@/_core/lib/transformData';
 
 interface FireStationsLayerProps {
   data: any;
 }
 
 export default function FireStationsLayer({ data }: FireStationsLayerProps) {
-  if (!data) return null;
+  const transformedData = data ? transformFireStations(data) : null;
 
-  const transformedData = {
-    ...data,
-    features: data.features.filter((f: any) => f.properties?.jurisdiction === 'Fire Department'),
-  };
+  if (!transformedData) return null;
 
   return (
     <GeoJSON
