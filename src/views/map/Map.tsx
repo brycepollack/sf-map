@@ -74,6 +74,7 @@ export default function Map({ marker }: MapProps) {
       maxBounds={SF_BOUNDS}
       maxBoundsViscosity={1}
       maxZoom={18}
+      zoomControl={false}
       scrollWheelZoom
       className="absolute inset-0"
     >

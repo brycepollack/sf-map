@@ -63,7 +63,7 @@ export default function AddressSearch({ onSelect }: AddressSearchProps) {
   };
 
   return (
-    <div className="absolute top-4 left-1/2 -translate-x-1/2 z-1000 w-96">
+    <div className="absolute top-4 left-1/2 -translate-x-1/2 z-1000 w-[calc(100vw-2rem)] max-w-96">
       <Popover open={open} onOpenChange={setOpen}>
         <PopoverAnchor asChild>
           <Command shouldFilter={false} className="rounded-xl border shadow-md">
