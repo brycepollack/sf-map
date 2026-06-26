@@ -25,24 +25,27 @@ export default function AddressSearch({ onSelect }: AddressSearchProps) {
   const debouncedQuery = useDebounce(query, 300);
 
   useEffect(() => {
-    if (debouncedQuery.length < 2) {
-      setSuggestions([]);
-      setOpen(false);
-      return;
-    }
+    const controller = new AbortController();
 
     async function fetchSuggestions() {
       try {
-        const data = await api.nominatim.searchAddress({ q: debouncedQuery });
+        if (debouncedQuery.length < 2) {
+          setSuggestions([]);
+          setOpen(false);
+          return;
+        }
+        const data = await api.nominatim.searchAddress({ q: debouncedQuery }, controller.signal);
         setSuggestions(data);
         setOpen(data.length > 0);
       } catch {
+        if (controller.signal.aborted) return;
         setSuggestions([]);
         setOpen(false);
       }
     }
 
     fetchSuggestions();
+    return () => controller.abort();
   }, [debouncedQuery]);
 
   const handleSelect = (suggestion: SearchAddressResult) => {

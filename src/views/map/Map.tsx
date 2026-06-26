@@ -1,5 +1,6 @@
-import { MapContainer, TileLayer, Marker as LeafletMarker, Popup, useMap } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker as LeafletMarker, useMap } from 'react-leaflet';
 
+import '@/_core/lib/leafletDefaultIcon';
 import { SF_BOUNDS } from '@/_core/constants';
 import { useControlPanel } from '@/hooks/useControlPanel';
 import type { Marker } from '@/_core/types';
@@ -83,11 +84,7 @@ export default function Map({ marker }: MapProps) {
       <KeyboardControls />
       <TileLayer url="https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png" />
       <TileLayer url="https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png" />
-      {marker && (
-        <LeafletMarker position={[marker.lat, marker.lng]}>
-          <Popup>{marker.label}</Popup>
-        </LeafletMarker>
-      )}
+      {marker && <LeafletMarker position={[marker.lat, marker.lng]} />}
       {controls.boundaries.visible && controls.boundaries.neighborhoods.visible && (
         <NeighborhoodsLayer data={neighborhoods} />
       )}
